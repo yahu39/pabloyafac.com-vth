@@ -6,30 +6,43 @@
     <link>https://yahu39.github.io/pabloyafac.com-vth/</link>
     <description>Blog Personal</description>
     <language>en-US</language>
-    <pubDate>Sat, 09 Oct 2021 08:06:31 GMT</pubDate>
-    <lastBuildDate>Sat, 09 Oct 2021 08:06:31 GMT</lastBuildDate>
+    <pubDate>Sat, 09 Oct 2021 08:15:04 GMT</pubDate>
+    <lastBuildDate>Sat, 09 Oct 2021 08:15:04 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Pablo Yafac</copyright>
     <category>Guide</category>
     <item>
-      <title>Cursos</title>
-      <link>https://yahu39.github.io/pabloyafac.com-vth/about/courses/</link>
-      <guid>https://yahu39.github.io/pabloyafac.com-vth/about/courses/</guid>
-      <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Cursos</source>
-      <pubDate>Fri, 08 Oct 2021 16:49:06 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="cursos"> Cursos</h1>
-<p>Esta es la seccion de cursos.</p>
-]]></content:encoded>
+      <title>About</title>
+      <link>https://yahu39.github.io/pabloyafac.com-vth/about/</link>
+      <guid>https://yahu39.github.io/pabloyafac.com-vth/about/</guid>
+      <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">About</source>
+      <content:encoded><![CDATA[<h1 id="about-me"> About Me</h1>
+<p>Esta es la sección de about.
+🎉 💯</p>
+<p>Esto es un componente
+<photo-personal /></p>
+<p>Esto es un codigo:</p>
+<div><pre><code>php artisan migrate:reset
+</code></pre>
+<div><span>1</span><br></div></div>]]></content:encoded>
     </item>
     <item>
       <title>Certificados</title>
       <link>https://yahu39.github.io/pabloyafac.com-vth/about/certifications/</link>
       <guid>https://yahu39.github.io/pabloyafac.com-vth/about/certifications/</guid>
       <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Certificados</source>
-      <pubDate>Fri, 08 Oct 2021 16:49:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="certificados"> Certificados</h1>
 <p>Esta es la seccion de certificados</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Cursos</title>
+      <link>https://yahu39.github.io/pabloyafac.com-vth/about/courses/</link>
+      <guid>https://yahu39.github.io/pabloyafac.com-vth/about/courses/</guid>
+      <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Cursos</source>
+      <content:encoded><![CDATA[<h1 id="cursos"> Cursos</h1>
+<p>Esta es la seccion de cursos.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -37,7 +50,6 @@
       <link>https://yahu39.github.io/pabloyafac.com-vth/about/experience/</link>
       <guid>https://yahu39.github.io/pabloyafac.com-vth/about/experience/</guid>
       <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Experiencia</source>
-      <pubDate>Fri, 08 Oct 2021 16:49:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="experiencia"> Experiencia</h1>
 <p>Esta es la seccion de experiencia</p>
 ]]></content:encoded>
@@ -47,7 +59,6 @@
       <link>https://yahu39.github.io/pabloyafac.com-vth/config/</link>
       <guid>https://yahu39.github.io/pabloyafac.com-vth/config/</guid>
       <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Config</source>
-      <pubDate>Fri, 08 Oct 2021 16:49:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="config"> Config</h1>
 <h2 id="foo"> foo</h2>
 <ul>
@@ -62,12 +73,37 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>Component disabled</title>
+      <link>https://yahu39.github.io/pabloyafac.com-vth/guide/disable/</link>
+      <guid>https://yahu39.github.io/pabloyafac.com-vth/guide/disable/</guid>
+      <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Component disabled</source>
+      <description>&amp;lt;p&amp;gt;You can disable some functions on the page by setting the Frontmatter of the page.&amp;lt;/p&amp;gt;
+</description>
+      <category>Guide</category>
+      <content:encoded><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
+
+<p>These should be disabled on this page:</p>
+<ul>
+<li>Navbar</li>
+<li>Sidebar</li>
+<li>Breadcrumb</li>
+<li>Page information</li>
+<li>Contributors</li>
+<li>Edit link</li>
+<li>Update time</li>
+<li>Prev/Next link</li>
+<li>Comment</li>
+<li>Footer</li>
+<li>Back to top button</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Encryption article</title>
       <link>https://yahu39.github.io/pabloyafac.com-vth/guide/encrypt/</link>
       <guid>https://yahu39.github.io/pabloyafac.com-vth/guide/encrypt/</guid>
       <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Encryption article</source>
       <category>Guide</category>
-      <pubDate>Fri, 08 Oct 2021 16:49:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="encryption-article"> Encryption article</h1>
 <p>The actual article content.</p>
 <p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
@@ -82,7 +118,6 @@
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; enables more syntax in Markdown via the built-in &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt; plugin.&amp;lt;/p&amp;gt;
 </description>
       <category>Guide</category>
-      <pubDate>Fri, 08 Oct 2021 16:49:06 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> enables more syntax in Markdown via the built-in <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> plugin.</p>
 
 <h2 id="enable-all"> Enable all</h2>
@@ -582,39 +617,11 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
-      <title>Component disabled</title>
-      <link>https://yahu39.github.io/pabloyafac.com-vth/guide/disable/</link>
-      <guid>https://yahu39.github.io/pabloyafac.com-vth/guide/disable/</guid>
-      <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Component disabled</source>
-      <description>&amp;lt;p&amp;gt;You can disable some functions on the page by setting the Frontmatter of the page.&amp;lt;/p&amp;gt;
-</description>
-      <category>Guide</category>
-      <pubDate>Fri, 08 Oct 2021 16:49:06 GMT</pubDate>
-      <content:encoded><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
-
-<p>These should be disabled on this page:</p>
-<ul>
-<li>Navbar</li>
-<li>Sidebar</li>
-<li>Breadcrumb</li>
-<li>Page information</li>
-<li>Contributors</li>
-<li>Edit link</li>
-<li>Update time</li>
-<li>Prev/Next link</li>
-<li>Comment</li>
-<li>Footer</li>
-<li>Back to top button</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Guides</title>
       <link>https://yahu39.github.io/pabloyafac.com-vth/guide/</link>
       <guid>https://yahu39.github.io/pabloyafac.com-vth/guide/</guid>
       <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Guides</source>
       <category>Guide</category>
-      <pubDate>Fri, 08 Oct 2021 16:49:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="guides"> Guides</h1>
 <ul>
 <li>
@@ -633,13 +640,11 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
-      <title>Intro Page</title>
-      <link>https://yahu39.github.io/pabloyafac.com-vth/intro/</link>
-      <guid>https://yahu39.github.io/pabloyafac.com-vth/intro/</guid>
-      <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Intro Page</source>
-      <pubDate>Fri, 08 Oct 2021 16:49:06 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
-<p>Place your introducation and profile here.</p>
+      <title>Portafolio</title>
+      <link>https://yahu39.github.io/pabloyafac.com-vth/home/</link>
+      <guid>https://yahu39.github.io/pabloyafac.com-vth/home/</guid>
+      <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Portafolio</source>
+      <content:encoded><![CDATA[
 ]]></content:encoded>
     </item>
     <item>
@@ -647,7 +652,6 @@ A custom details container
       <link>https://yahu39.github.io/pabloyafac.com-vth/layout/</link>
       <guid>https://yahu39.github.io/pabloyafac.com-vth/layout/</guid>
       <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Custom Layout</source>
-      <pubDate>Fri, 08 Oct 2021 16:49:06 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>Note</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -668,11 +672,19 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
+      <title>Intro Page</title>
+      <link>https://yahu39.github.io/pabloyafac.com-vth/intro/</link>
+      <guid>https://yahu39.github.io/pabloyafac.com-vth/intro/</guid>
+      <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Intro Page</source>
+      <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
+<p>Place your introducation and profile here.</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Portfolio</title>
       <link>https://yahu39.github.io/pabloyafac.com-vth/portfolio/</link>
       <guid>https://yahu39.github.io/pabloyafac.com-vth/portfolio/</guid>
       <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Portfolio</source>
-      <pubDate>Fri, 08 Oct 2021 16:49:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="portfolio"> Portfolio</h1>
 <p>Esta es la sección de portfolio.
 Esto es un codigo:</p>
@@ -681,49 +693,22 @@ Esto es un codigo:</p>
 <div><span>1</span><br></div></div>]]></content:encoded>
     </item>
     <item>
-      <title>Slide page</title>
-      <link>https://yahu39.github.io/pabloyafac.com-vth/slides/</link>
-      <guid>https://yahu39.github.io/pabloyafac.com-vth/slides/</guid>
-      <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Slide page</source>
-      <pubDate>Fri, 08 Oct 2021 16:49:06 GMT</pubDate>
-      <content:encoded><![CDATA[
-<i>Not supported content</i>]]></content:encoded>
-      <enclosure url="https://yahu39.github.io/pabloyafac.com-vth/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
-      <title>Portafolio</title>
-      <link>https://yahu39.github.io/pabloyafac.com-vth/home/</link>
-      <guid>https://yahu39.github.io/pabloyafac.com-vth/home/</guid>
-      <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Portafolio</source>
-      <pubDate>Fri, 08 Oct 2021 16:49:06 GMT</pubDate>
-      <content:encoded><![CDATA[
-]]></content:encoded>
-    </item>
-    <item>
       <title>Blog</title>
       <link>https://yahu39.github.io/pabloyafac.com-vth/</link>
       <guid>https://yahu39.github.io/pabloyafac.com-vth/</guid>
       <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Blog</source>
-      <pubDate>Fri, 08 Oct 2021 16:49:06 GMT</pubDate>
       <content:encoded><![CDATA[
 
 ]]></content:encoded>
     </item>
     <item>
-      <title>About</title>
-      <link>https://yahu39.github.io/pabloyafac.com-vth/about/</link>
-      <guid>https://yahu39.github.io/pabloyafac.com-vth/about/</guid>
-      <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">About</source>
-      <pubDate>Fri, 08 Oct 2021 16:49:06 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="about-me"> About Me</h1>
-<p>Esta es la sección de about.
-🎉 💯</p>
-<p>Esto es un componente
-<photo-personal /></p>
-<p>Esto es un codigo:</p>
-<div><pre><code>php artisan migrate:reset
-</code></pre>
-<div><span>1</span><br></div></div>]]></content:encoded>
+      <title>Slide page</title>
+      <link>https://yahu39.github.io/pabloyafac.com-vth/slides/</link>
+      <guid>https://yahu39.github.io/pabloyafac.com-vth/slides/</guid>
+      <source url="https://yahu39.github.io/pabloyafac.com-vth/rss.xml">Slide page</source>
+      <content:encoded><![CDATA[
+<i>Not supported content</i>]]></content:encoded>
+      <enclosure url="https://yahu39.github.io/pabloyafac.com-vth/logo.svg" type="image/svg+xml"/>
     </item>
   </channel>
 </rss>

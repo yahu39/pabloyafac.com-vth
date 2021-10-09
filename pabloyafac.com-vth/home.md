@@ -1,10 +1,10 @@
 ---
 home: true
 icon: home
-title: Project home
-heroImage: /logo.svg
-heroText: Project name
-tagline: You can place the description of the project here.
+title: Portafolio
+heroImage: /portfolio.png
+heroText: Portafolio
+tagline: En esta seccion contiene los proyecto en los que he aplicado lo aprendido.
 action:
   - text: How to Use 💡
     link: /guide/
@@ -67,11 +67,12 @@ features:
     link: https://vuepress-theme-hope.github.io/guide/feature/
 
 copyrightText: false
-footer: MIT Licensed | Copyright © 2019-present Mr. Hope
+footer: Copyright © 2021
 ---
 
-This is an example of a normal homepage. You can place your main content here.
+
+<!-- This is an example of a normal homepage. You can place your main content here.
 
 To use this layout, you need to set `home: true` in the page front matter.
 
-For related descriptions of configuration items, please see [Project HomePage Layout Config](https://vuepress-theme-hope.github.io/guide/layout/home/).
+For related descriptions of configuration items, please see [Project HomePage Layout Config](https://vuepress-theme-hope.github.io/guide/layout/home/). -->

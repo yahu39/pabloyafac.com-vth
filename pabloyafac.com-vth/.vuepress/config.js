@@ -24,7 +24,7 @@ module.exports = config({
     ],
   ],
 
-  locales: {
+/*   locales: {
     "/": {
       lang: "en-US",
     },
@@ -32,53 +32,57 @@ module.exports = config({
       title: "Pablo Yafac",
       description: "vuepress-theme-hope 的 demo",
     },
-  },
+  }, */
 
   themeConfig: {
+    darkmode: [
+      {
+        "auto-switch": "switch"
+      }
+    ],
     logo: "/pablo.jpg",
     hostname: "https://yahu39.github.io/pabloyafac.com-vth",
     author: "Pablo Yafac",
 //    repo: "https://github.com/vuepress-theme-hope/vuepress-theme-hope",
 
     nav: [
-      { text: "Blog Home", link: "/", icon: "home" },
-      { text: "Portfolio Home", link: "/home/", icon: "folder" },
+      { text: "Blog", link: "/", icon: "home" },
+      { text: "Portfolio", link: "/home/", icon: "folder" },
       { text: "About Me", link: "/about/", icon: "people" },
       {
         text: "Guide",
         icon: "creative",
         link: "/guide/",
       },
-      {
+/*       {
         text: "Docs",
         link: "https://vuepress-theme-hope.github.io/",
         icon: "note",
-      },
+      }, */
     ],
 
     sidebar: {
       "/": [
         "",
         "home",
-        "slides",
-        "layout",
-        {
-          title: "Guide",
-          icon: "creative",
-          prefix: "guide/",
-          children: ["", "page", "markdown", "disable", "encrypt"],
-        },
-
+        //"slides",
+        //"layout",
         {
           title: "About",
           icon: "people",
           prefix: "about/",
           children: ["", "certifications", "courses", "experience"],
         },
+        {
+          title: "Guide",
+          icon: "creative",
+          prefix: "guide/",
+          children: ["", "page", "markdown", "disable", "encrypt"],
+        },
       ]
     },
 
-    locales: {
+/*     locales: {
       "/zh/": {
         nav: [
           { text: "博客主页", link: "/zh/", icon: "home" },
@@ -109,27 +113,27 @@ module.exports = config({
           ],
         },
       },
-    },
+    }, */
 
     blog: {
       intro: "/intro/",
       sidebarDisplay: "mobile",
       links: {
-        Zhihu: "https://zhihu.com",
-        Baidu: "https://baidu.com",
-        Github: "https://github.com",
+        Github: "https://github.com/yahu39",
+        Twitter: "https://twitter.com/yahupc",
+        Linkedin: "https://www.linkedin.com/in/pablo-yafac-95348412/"
       },
     },
 
     footer: {
       display: true,
-      content: "Made with ❤️ .",
+      content: "Made with ❤️ by Pablo Yafac.",
     },
 
-    comment: {
+/*     comment: {
       type: "waline",
       serverURL: "https://vuepress-theme-hope-comment.vercel.app",
-    },
+    }, */
 
     copyright: {
       status: "global",

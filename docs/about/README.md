@@ -1,7 +1,7 @@
 ---
 home: true
 title: About
-heroImage: /photo-personal.png
+heroImage: /pablo.jpg
 heroText: Pablo Yafac.
 tagline: Web Developer 👨‍💻
 action:

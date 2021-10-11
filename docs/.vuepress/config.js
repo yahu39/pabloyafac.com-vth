@@ -35,16 +35,12 @@ module.exports = config({
   }, */
 
   themeConfig: {
-    darkmode: [
-      {
-        "auto-switch": "switch"
-      }
-    ],
+    darkmode: "switch",
     logo: "/pablo.jpg",
-    hostname: "https://yahu39.github.io/pabloyafac.com-vth",
+    hostname: "https://vuepress.pabloyafac.com/",
     author: "Pablo Yafac",
 //    repo: "https://github.com/vuepress-theme-hope/vuepress-theme-hope",
-
+    
     nav: [
       { text: "Blog", link: "/", icon: "home" },
       { text: "Portfolio", link: "/home/", icon: "folder" },

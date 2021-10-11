@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
-  <id>https://yahu39.github.io/pabloyafac.com-vth/</id>
+  <id>https://vuepress.pabloyafac.com/</id>
   <title>Pablo Yafac</title>
   <subtitle>Blog Personal</subtitle>
   <author>
     <name>Pablo Yafac</name>
   </author>
-  <updated>2021-10-09T08:15:04.928Z</updated>
+  <updated>2021-10-11T06:10:26.334Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
-  <link rel="self" href="https://yahu39.github.io/pabloyafac.com-vth/atom.xml"/>
-  <link rel="alternate" href="https://yahu39.github.io/pabloyafac.com-vth/"/>
+  <link rel="self" href="https://vuepress.pabloyafac.com/atom.xml"/>
+  <link rel="alternate" href="https://vuepress.pabloyafac.com/"/>
   <rights>Copyright by Pablo Yafac</rights>
   <category term="Guide"/>
   <contributor>
@@ -20,9 +20,9 @@
   </contributor>
   <entry>
     <title type="html">About</title>
-    <id>https://yahu39.github.io/pabloyafac.com-vth/about/</id>
-    <link href="https://yahu39.github.io/pabloyafac.com-vth/about/"/>
-    <updated>2021-10-09T08:15:55.535Z</updated>
+    <id>https://vuepress.pabloyafac.com/about/</id>
+    <link href="https://vuepress.pabloyafac.com/about/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
     <content type="html"><![CDATA[<h1 id="about-me"> About Me</h1>
 <p>Esta es la sección de about.
 🎉 💯</p>
@@ -38,13 +38,14 @@
     <contributor>
       <name>Pablo Yafac</name>
     </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
     <title type="html">Certificados</title>
-    <id>https://yahu39.github.io/pabloyafac.com-vth/about/certifications/</id>
-    <link href="https://yahu39.github.io/pabloyafac.com-vth/about/certifications/"/>
-    <updated>2021-10-09T08:15:55.559Z</updated>
+    <id>https://vuepress.pabloyafac.com/about/certifications/</id>
+    <link href="https://vuepress.pabloyafac.com/about/certifications/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
     <content type="html"><![CDATA[<h1 id="certificados"> Certificados</h1>
 <p>Esta es la seccion de certificados</p>
 ]]></content>
@@ -54,13 +55,14 @@
     <contributor>
       <name>Pablo Yafac</name>
     </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
     <title type="html">Cursos</title>
-    <id>https://yahu39.github.io/pabloyafac.com-vth/about/courses/</id>
-    <link href="https://yahu39.github.io/pabloyafac.com-vth/about/courses/"/>
-    <updated>2021-10-09T08:15:55.559Z</updated>
+    <id>https://vuepress.pabloyafac.com/about/courses/</id>
+    <link href="https://vuepress.pabloyafac.com/about/courses/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
     <content type="html"><![CDATA[<h1 id="cursos"> Cursos</h1>
 <p>Esta es la seccion de cursos.</p>
 ]]></content>
@@ -70,13 +72,14 @@
     <contributor>
       <name>Pablo Yafac</name>
     </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
     <title type="html">Experiencia</title>
-    <id>https://yahu39.github.io/pabloyafac.com-vth/about/experience/</id>
-    <link href="https://yahu39.github.io/pabloyafac.com-vth/about/experience/"/>
-    <updated>2021-10-09T08:15:55.559Z</updated>
+    <id>https://vuepress.pabloyafac.com/about/experience/</id>
+    <link href="https://vuepress.pabloyafac.com/about/experience/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
     <content type="html"><![CDATA[<h1 id="experiencia"> Experiencia</h1>
 <p>Esta es la seccion de experiencia</p>
 ]]></content>
@@ -86,13 +89,14 @@
     <contributor>
       <name>Pablo Yafac</name>
     </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
     <title type="html">Config</title>
-    <id>https://yahu39.github.io/pabloyafac.com-vth/config/</id>
-    <link href="https://yahu39.github.io/pabloyafac.com-vth/config/"/>
-    <updated>2021-10-09T08:15:55.560Z</updated>
+    <id>https://vuepress.pabloyafac.com/config/</id>
+    <link href="https://vuepress.pabloyafac.com/config/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
     <content type="html"><![CDATA[<h1 id="config"> Config</h1>
 <h2 id="foo"> foo</h2>
 <ul>
@@ -111,13 +115,14 @@
     <contributor>
       <name>Pablo Yafac</name>
     </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
     <title type="html">Component disabled</title>
-    <id>https://yahu39.github.io/pabloyafac.com-vth/guide/disable/</id>
-    <link href="https://yahu39.github.io/pabloyafac.com-vth/guide/disable/"/>
-    <updated>2021-10-09T08:15:55.562Z</updated>
+    <id>https://vuepress.pabloyafac.com/guide/disable/</id>
+    <link href="https://vuepress.pabloyafac.com/guide/disable/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
     <summary type="html"><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
@@ -144,13 +149,14 @@
     <contributor>
       <name>Pablo Yafac</name>
     </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
     <title type="html">Encryption article</title>
-    <id>https://yahu39.github.io/pabloyafac.com-vth/guide/encrypt/</id>
-    <link href="https://yahu39.github.io/pabloyafac.com-vth/guide/encrypt/"/>
-    <updated>2021-10-09T08:15:55.562Z</updated>
+    <id>https://vuepress.pabloyafac.com/guide/encrypt/</id>
+    <link href="https://vuepress.pabloyafac.com/guide/encrypt/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
     <content type="html"><![CDATA[<h1 id="encryption-article"> Encryption article</h1>
 <p>The actual article content.</p>
 <p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
@@ -163,13 +169,14 @@
     <contributor>
       <name>Pablo Yafac</name>
     </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
     <title type="html">Markdown Enhance</title>
-    <id>https://yahu39.github.io/pabloyafac.com-vth/guide/markdown/</id>
-    <link href="https://yahu39.github.io/pabloyafac.com-vth/guide/markdown/"/>
-    <updated>2021-10-09T08:15:55.588Z</updated>
+    <id>https://vuepress.pabloyafac.com/guide/markdown/</id>
+    <link href="https://vuepress.pabloyafac.com/guide/markdown/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> enables more syntax in Markdown via the built-in <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> plugin.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> enables more syntax in Markdown via the built-in <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> plugin.</p>
@@ -627,13 +634,14 @@ A custom details container
     <contributor>
       <name>Pablo Yafac</name>
     </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
     <title type="html">page config</title>
-    <id>https://yahu39.github.io/pabloyafac.com-vth/guide/page/</id>
-    <link href="https://yahu39.github.io/pabloyafac.com-vth/guide/page/"/>
-    <updated>2021-10-09T08:15:55.589Z</updated>
+    <id>https://vuepress.pabloyafac.com/guide/page/</id>
+    <link href="https://vuepress.pabloyafac.com/guide/page/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
     <content type="html"><![CDATA[<h2 id="page-information"> Page information</h2>
 <p>You can set page information in Markdown’s Frontmatter.</p>
 <ul>
@@ -687,9 +695,9 @@ A custom details container
   </entry>
   <entry>
     <title type="html">Guides</title>
-    <id>https://yahu39.github.io/pabloyafac.com-vth/guide/</id>
-    <link href="https://yahu39.github.io/pabloyafac.com-vth/guide/"/>
-    <updated>2021-10-09T08:15:55.590Z</updated>
+    <id>https://vuepress.pabloyafac.com/guide/</id>
+    <link href="https://vuepress.pabloyafac.com/guide/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
     <content type="html"><![CDATA[<h1 id="guides"> Guides</h1>
 <ul>
 <li>
@@ -713,13 +721,14 @@ A custom details container
     <contributor>
       <name>Pablo Yafac</name>
     </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
     <title type="html">Portafolio</title>
-    <id>https://yahu39.github.io/pabloyafac.com-vth/home/</id>
-    <link href="https://yahu39.github.io/pabloyafac.com-vth/home/"/>
-    <updated>2021-10-09T08:15:55.590Z</updated>
+    <id>https://vuepress.pabloyafac.com/home/</id>
+    <link href="https://vuepress.pabloyafac.com/home/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
     <content type="html"><![CDATA[
 ]]></content>
     <author>
@@ -728,13 +737,14 @@ A custom details container
     <contributor>
       <name>Pablo Yafac</name>
     </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
     <title type="html">Custom Layout</title>
-    <id>https://yahu39.github.io/pabloyafac.com-vth/layout/</id>
-    <link href="https://yahu39.github.io/pabloyafac.com-vth/layout/"/>
-    <updated>2021-10-09T08:15:55.591Z</updated>
+    <id>https://vuepress.pabloyafac.com/layout/</id>
+    <link href="https://vuepress.pabloyafac.com/layout/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
     <content type="html"><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>Note</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -759,15 +769,16 @@ A custom details container
     <contributor>
       <name>Pablo Yafac</name>
     </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
-    <title type="html">Intro Page</title>
-    <id>https://yahu39.github.io/pabloyafac.com-vth/intro/</id>
-    <link href="https://yahu39.github.io/pabloyafac.com-vth/intro/"/>
-    <updated>2021-10-09T08:15:55.591Z</updated>
-    <content type="html"><![CDATA[<h1 id="intro-page"> Intro Page</h1>
-<p>Place your introducation and profile here.</p>
+    <title type="html">Blog</title>
+    <id>https://vuepress.pabloyafac.com/</id>
+    <link href="https://vuepress.pabloyafac.com/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
+    <content type="html"><![CDATA[
+
 ]]></content>
     <author>
       <name>Pablo Yafac</name>
@@ -775,13 +786,14 @@ A custom details container
     <contributor>
       <name>Pablo Yafac</name>
     </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
     <title type="html">Portfolio</title>
-    <id>https://yahu39.github.io/pabloyafac.com-vth/portfolio/</id>
-    <link href="https://yahu39.github.io/pabloyafac.com-vth/portfolio/"/>
-    <updated>2021-10-09T08:15:55.591Z</updated>
+    <id>https://vuepress.pabloyafac.com/portfolio/</id>
+    <link href="https://vuepress.pabloyafac.com/portfolio/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
     <content type="html"><![CDATA[<h1 id="portfolio"> Portfolio</h1>
 <p>Esta es la sección de portfolio.
 Esto es un codigo:</p>
@@ -794,29 +806,14 @@ Esto es un codigo:</p>
     <contributor>
       <name>Pablo Yafac</name>
     </contributor>
-    <rights>Copyright by Pablo Yafac</rights>
-  </entry>
-  <entry>
-    <title type="html">Blog</title>
-    <id>https://yahu39.github.io/pabloyafac.com-vth/</id>
-    <link href="https://yahu39.github.io/pabloyafac.com-vth/"/>
-    <updated>2021-10-09T08:15:55.592Z</updated>
-    <content type="html"><![CDATA[
-
-]]></content>
-    <author>
-      <name>Pablo Yafac</name>
-    </author>
-    <contributor>
-      <name>Pablo Yafac</name>
-    </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
     <title type="html">Slide page</title>
-    <id>https://yahu39.github.io/pabloyafac.com-vth/slides/</id>
-    <link href="https://yahu39.github.io/pabloyafac.com-vth/slides/"/>
-    <updated>2021-10-09T08:15:55.593Z</updated>
+    <id>https://vuepress.pabloyafac.com/slides/</id>
+    <link href="https://vuepress.pabloyafac.com/slides/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -825,6 +822,24 @@ Esto es un codigo:</p>
     <contributor>
       <name>Pablo Yafac</name>
     </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
+    <rights>Copyright by Pablo Yafac</rights>
+  </entry>
+  <entry>
+    <title type="html">Intro Page</title>
+    <id>https://vuepress.pabloyafac.com/intro/</id>
+    <link href="https://vuepress.pabloyafac.com/intro/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="intro-page"> Intro Page</h1>
+<p>Place your introducation and profile here.</p>
+]]></content>
+    <author>
+      <name>Pablo Yafac</name>
+    </author>
+    <contributor>
+      <name>Pablo Yafac</name>
+    </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
 </feed>

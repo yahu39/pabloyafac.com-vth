@@ -14,7 +14,7 @@
       "id": "https://vuepress.pabloyafac.com/about/",
       "content_html": "<h1 id=\"about-me\"> About Me</h1>\n<p>Esta es la sección de about.\n🎉 💯</p>\n<p>Esto es un componente\n<photo-personal /></p>\n<p>Esto es un codigo:</p>\n<div><pre><code>php artisan migrate:reset\n</code></pre>\n<div><span>1</span><br></div></div>",
       "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2021-10-09T08:19:29.000Z",
+      "date_modified": "2021-10-14T07:56:11.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"
@@ -28,7 +28,7 @@
       "id": "https://vuepress.pabloyafac.com/about/certifications/",
       "content_html": "<h1 id=\"certificados\"> Certificados</h1>\n<p>Esta es la seccion de certificados</p>\n",
       "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2021-10-09T08:19:29.000Z",
+      "date_modified": "2021-10-14T07:56:11.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"
@@ -42,7 +42,7 @@
       "id": "https://vuepress.pabloyafac.com/about/courses/",
       "content_html": "<h1 id=\"cursos\"> Cursos</h1>\n<p>Esta es la seccion de cursos.</p>\n",
       "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2021-10-09T08:19:29.000Z",
+      "date_modified": "2021-10-14T07:56:11.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"
@@ -56,7 +56,7 @@
       "id": "https://vuepress.pabloyafac.com/about/experience/",
       "content_html": "<h1 id=\"experiencia\"> Experiencia</h1>\n<p>Esta es la seccion de experiencia</p>\n",
       "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2021-10-09T08:19:29.000Z",
+      "date_modified": "2021-10-14T07:56:11.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"
@@ -175,12 +175,40 @@
       "tags": []
     },
     {
+      "title": "Intro Page",
+      "url": "https://vuepress.pabloyafac.com/intro/",
+      "id": "https://vuepress.pabloyafac.com/intro/",
+      "content_html": "<h1 id=\"intro-page\"> Intro Page</h1>\n<p>Place your introducation and profile here.</p>\n",
+      "date_published": "2021-10-09T08:19:29.000Z",
+      "date_modified": "2021-10-09T08:19:29.000Z",
+      "authors": [
+        {
+          "name": "Pablo Yafac"
+        }
+      ],
+      "tags": []
+    },
+    {
       "title": "Custom Layout",
       "url": "https://vuepress.pabloyafac.com/layout/",
       "id": "https://vuepress.pabloyafac.com/layout/",
       "content_html": "<p>You can use slots with markdown and component support to custom page layout.</p>\n<div><p>Note</p>\n<p>This is just a demo, you should add styles according to your own needs.</p>\n\n\n</div>\n<template #page-top><p>Page top content</p>\n</template><template #page-bottom><p>Page bottom content</p>\n</template><template #content-top><p>Content top content</p>\n</template><template #content-bottom><p>Content bottom content</p>\n</template><template #navbar-start><p>Navbar start content</p>\n</template><template #navbar-center><p>Navbar center content</p>\n</template><template #navbar-end><p>Navbar end content</p>\n</template><template #sidebar-top><p>Sidebar top content</p>\n</template><template #sidebar-center><p>Sidebar center content</p>\n</template><template #sidebar-bottom><p>Sidebar bottom content</p>\n</template><p>For details, see <a href=\"https://vuepress-theme-hope.github.io/guide/layout/custom/\" target=\"_blank\" rel=\"noopener noreferrer\">Custom layout</a>.</p>\n",
       "date_published": "2021-10-09T08:19:29.000Z",
       "date_modified": "2021-10-09T08:19:29.000Z",
+      "authors": [
+        {
+          "name": "Pablo Yafac"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Portfolio",
+      "url": "https://vuepress.pabloyafac.com/portfolio/",
+      "id": "https://vuepress.pabloyafac.com/portfolio/",
+      "content_html": "<h1 id=\"portfolio\"> Portfolio</h1>\n<p>Esta es la sección de portfolio.\nEsto es un codigo:</p>\n<div><pre><code>php artisan migrate:reset\n</code></pre>\n<div><span>1</span><br></div></div>",
+      "date_published": "2021-10-09T08:19:29.000Z",
+      "date_modified": "2021-10-14T07:56:11.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"
@@ -203,39 +231,11 @@
       "tags": []
     },
     {
-      "title": "Portfolio",
-      "url": "https://vuepress.pabloyafac.com/portfolio/",
-      "id": "https://vuepress.pabloyafac.com/portfolio/",
-      "content_html": "<h1 id=\"portfolio\"> Portfolio</h1>\n<p>Esta es la sección de portfolio.\nEsto es un codigo:</p>\n<div><pre><code>php artisan migrate:reset\n</code></pre>\n<div><span>1</span><br></div></div>",
-      "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2021-10-09T08:19:29.000Z",
-      "authors": [
-        {
-          "name": "Pablo Yafac"
-        }
-      ],
-      "tags": []
-    },
-    {
       "title": "Slide page",
       "url": "https://vuepress.pabloyafac.com/slides/",
       "id": "https://vuepress.pabloyafac.com/slides/",
       "content_html": "\n<i>Not supported content</i>",
       "image": "https://vuepress.pabloyafac.com/logo.svg",
-      "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2021-10-09T08:19:29.000Z",
-      "authors": [
-        {
-          "name": "Pablo Yafac"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Intro Page",
-      "url": "https://vuepress.pabloyafac.com/intro/",
-      "id": "https://vuepress.pabloyafac.com/intro/",
-      "content_html": "<h1 id=\"intro-page\"> Intro Page</h1>\n<p>Place your introducation and profile here.</p>\n",
       "date_published": "2021-10-09T08:19:29.000Z",
       "date_modified": "2021-10-09T08:19:29.000Z",
       "authors": [

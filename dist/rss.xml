@@ -6,8 +6,8 @@
     <link>https://vuepress.pabloyafac.com/</link>
     <description>Blog Personal</description>
     <language>en-US</language>
-    <pubDate>Mon, 11 Oct 2021 06:10:26 GMT</pubDate>
-    <lastBuildDate>Mon, 11 Oct 2021 06:10:26 GMT</lastBuildDate>
+    <pubDate>Thu, 14 Oct 2021 07:59:02 GMT</pubDate>
+    <lastBuildDate>Thu, 14 Oct 2021 07:59:02 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Pablo Yafac</copyright>
@@ -658,6 +658,16 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
+      <title>Intro Page</title>
+      <link>https://vuepress.pabloyafac.com/intro/</link>
+      <guid>https://vuepress.pabloyafac.com/intro/</guid>
+      <source url="https://vuepress.pabloyafac.com/rss.xml">Intro Page</source>
+      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
+<p>Place your introducation and profile here.</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Custom Layout</title>
       <link>https://vuepress.pabloyafac.com/layout/</link>
       <guid>https://vuepress.pabloyafac.com/layout/</guid>
@@ -683,16 +693,6 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
-      <title>Blog</title>
-      <link>https://vuepress.pabloyafac.com/</link>
-      <guid>https://vuepress.pabloyafac.com/</guid>
-      <source url="https://vuepress.pabloyafac.com/rss.xml">Blog</source>
-      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
-      <content:encoded><![CDATA[
-
-]]></content:encoded>
-    </item>
-    <item>
       <title>Portfolio</title>
       <link>https://vuepress.pabloyafac.com/portfolio/</link>
       <guid>https://vuepress.pabloyafac.com/portfolio/</guid>
@@ -706,6 +706,16 @@ Esto es un codigo:</p>
 <div><span>1</span><br></div></div>]]></content:encoded>
     </item>
     <item>
+      <title>Blog</title>
+      <link>https://vuepress.pabloyafac.com/</link>
+      <guid>https://vuepress.pabloyafac.com/</guid>
+      <source url="https://vuepress.pabloyafac.com/rss.xml">Blog</source>
+      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
+      <content:encoded><![CDATA[
+
+]]></content:encoded>
+    </item>
+    <item>
       <title>Slide page</title>
       <link>https://vuepress.pabloyafac.com/slides/</link>
       <guid>https://vuepress.pabloyafac.com/slides/</guid>
@@ -714,16 +724,6 @@ Esto es un codigo:</p>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://vuepress.pabloyafac.com/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
-      <title>Intro Page</title>
-      <link>https://vuepress.pabloyafac.com/intro/</link>
-      <guid>https://vuepress.pabloyafac.com/intro/</guid>
-      <source url="https://vuepress.pabloyafac.com/rss.xml">Intro Page</source>
-      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
-<p>Place your introducation and profile here.</p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

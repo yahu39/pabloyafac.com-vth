@@ -6,7 +6,7 @@
   <author>
     <name>Pablo Yafac</name>
   </author>
-  <updated>2021-10-11T06:10:26.334Z</updated>
+  <updated>2021-10-14T07:59:02.159Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://vuepress.pabloyafac.com/atom.xml"/>
   <link rel="alternate" href="https://vuepress.pabloyafac.com/"/>
@@ -22,7 +22,7 @@
     <title type="html">About</title>
     <id>https://vuepress.pabloyafac.com/about/</id>
     <link href="https://vuepress.pabloyafac.com/about/"/>
-    <updated>2021-10-09T08:19:29.000Z</updated>
+    <updated>2021-10-14T07:56:11.000Z</updated>
     <content type="html"><![CDATA[<h1 id="about-me"> About Me</h1>
 <p>Esta es la sección de about.
 🎉 💯</p>
@@ -45,7 +45,7 @@
     <title type="html">Certificados</title>
     <id>https://vuepress.pabloyafac.com/about/certifications/</id>
     <link href="https://vuepress.pabloyafac.com/about/certifications/"/>
-    <updated>2021-10-09T08:19:29.000Z</updated>
+    <updated>2021-10-14T07:56:11.000Z</updated>
     <content type="html"><![CDATA[<h1 id="certificados"> Certificados</h1>
 <p>Esta es la seccion de certificados</p>
 ]]></content>
@@ -62,7 +62,7 @@
     <title type="html">Cursos</title>
     <id>https://vuepress.pabloyafac.com/about/courses/</id>
     <link href="https://vuepress.pabloyafac.com/about/courses/"/>
-    <updated>2021-10-09T08:19:29.000Z</updated>
+    <updated>2021-10-14T07:56:11.000Z</updated>
     <content type="html"><![CDATA[<h1 id="cursos"> Cursos</h1>
 <p>Esta es la seccion de cursos.</p>
 ]]></content>
@@ -79,7 +79,7 @@
     <title type="html">Experiencia</title>
     <id>https://vuepress.pabloyafac.com/about/experience/</id>
     <link href="https://vuepress.pabloyafac.com/about/experience/"/>
-    <updated>2021-10-09T08:19:29.000Z</updated>
+    <updated>2021-10-14T07:56:11.000Z</updated>
     <content type="html"><![CDATA[<h1 id="experiencia"> Experiencia</h1>
 <p>Esta es la seccion de experiencia</p>
 ]]></content>
@@ -741,6 +741,23 @@ A custom details container
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
+    <title type="html">Intro Page</title>
+    <id>https://vuepress.pabloyafac.com/intro/</id>
+    <link href="https://vuepress.pabloyafac.com/intro/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="intro-page"> Intro Page</h1>
+<p>Place your introducation and profile here.</p>
+]]></content>
+    <author>
+      <name>Pablo Yafac</name>
+    </author>
+    <contributor>
+      <name>Pablo Yafac</name>
+    </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
+    <rights>Copyright by Pablo Yafac</rights>
+  </entry>
+  <entry>
     <title type="html">Custom Layout</title>
     <id>https://vuepress.pabloyafac.com/layout/</id>
     <link href="https://vuepress.pabloyafac.com/layout/"/>
@@ -773,6 +790,26 @@ A custom details container
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
+    <title type="html">Portfolio</title>
+    <id>https://vuepress.pabloyafac.com/portfolio/</id>
+    <link href="https://vuepress.pabloyafac.com/portfolio/"/>
+    <updated>2021-10-14T07:56:11.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="portfolio"> Portfolio</h1>
+<p>Esta es la sección de portfolio.
+Esto es un codigo:</p>
+<div><pre><code>php artisan migrate:reset
+</code></pre>
+<div><span>1</span><br></div></div>]]></content>
+    <author>
+      <name>Pablo Yafac</name>
+    </author>
+    <contributor>
+      <name>Pablo Yafac</name>
+    </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
+    <rights>Copyright by Pablo Yafac</rights>
+  </entry>
+  <entry>
     <title type="html">Blog</title>
     <id>https://vuepress.pabloyafac.com/</id>
     <link href="https://vuepress.pabloyafac.com/"/>
@@ -790,49 +827,12 @@ A custom details container
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
-    <title type="html">Portfolio</title>
-    <id>https://vuepress.pabloyafac.com/portfolio/</id>
-    <link href="https://vuepress.pabloyafac.com/portfolio/"/>
-    <updated>2021-10-09T08:19:29.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="portfolio"> Portfolio</h1>
-<p>Esta es la sección de portfolio.
-Esto es un codigo:</p>
-<div><pre><code>php artisan migrate:reset
-</code></pre>
-<div><span>1</span><br></div></div>]]></content>
-    <author>
-      <name>Pablo Yafac</name>
-    </author>
-    <contributor>
-      <name>Pablo Yafac</name>
-    </contributor>
-    <published>2021-10-09T08:19:29.000Z</published>
-    <rights>Copyright by Pablo Yafac</rights>
-  </entry>
-  <entry>
     <title type="html">Slide page</title>
     <id>https://vuepress.pabloyafac.com/slides/</id>
     <link href="https://vuepress.pabloyafac.com/slides/"/>
     <updated>2021-10-09T08:19:29.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
-    <author>
-      <name>Pablo Yafac</name>
-    </author>
-    <contributor>
-      <name>Pablo Yafac</name>
-    </contributor>
-    <published>2021-10-09T08:19:29.000Z</published>
-    <rights>Copyright by Pablo Yafac</rights>
-  </entry>
-  <entry>
-    <title type="html">Intro Page</title>
-    <id>https://vuepress.pabloyafac.com/intro/</id>
-    <link href="https://vuepress.pabloyafac.com/intro/"/>
-    <updated>2021-10-09T08:19:29.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="intro-page"> Intro Page</h1>
-<p>Place your introducation and profile here.</p>
-]]></content>
     <author>
       <name>Pablo Yafac</name>
     </author>

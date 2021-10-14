@@ -1,3 +1,6 @@
+---
+article: false
+---
 # Portfolio
 
 Esta es la sección de portfolio.

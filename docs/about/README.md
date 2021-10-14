@@ -1,9 +1,9 @@
 ---
-home: true
 title: About
 heroImage: /pablo.jpg
 heroText: Pablo Yafac.
 tagline: Web Developer 👨‍💻
+article: false
 action:
   - text: How to Use 💡
     link: /guide/

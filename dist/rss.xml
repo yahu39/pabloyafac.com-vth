@@ -6,8 +6,8 @@
     <link>https://vuepress.pabloyafac.com/</link>
     <description>Blog Personal</description>
     <language>en-US</language>
-    <pubDate>Thu, 14 Oct 2021 07:59:02 GMT</pubDate>
-    <lastBuildDate>Thu, 14 Oct 2021 07:59:02 GMT</lastBuildDate>
+    <pubDate>Fri, 15 Oct 2021 05:47:33 GMT</pubDate>
+    <lastBuildDate>Fri, 15 Oct 2021 05:47:33 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Pablo Yafac</copyright>
@@ -658,13 +658,19 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
-      <title>Intro Page</title>
+      <title>Bienvenidos</title>
       <link>https://vuepress.pabloyafac.com/intro/</link>
       <guid>https://vuepress.pabloyafac.com/intro/</guid>
-      <source url="https://vuepress.pabloyafac.com/rss.xml">Intro Page</source>
+      <source url="https://vuepress.pabloyafac.com/rss.xml">Bienvenidos</source>
       <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
-<p>Place your introducation and profile here.</p>
+      <content:encoded><![CDATA[<h1 id="bienvenidos"> Bienvenidos</h1>
+<p>Este blog se creo, con el fin de compartir mi experiencia en este apasionante mundo web.
+Compartiré algunos conceptos de programación, ademas de mis errores y aciertos en las diversas tecnologias que ire aprendiendo.
+Esperando que el contenido que suba, pueda ayudarles en su desarrollo. De la misma forma como algunos fabulosos tutoriales en internet me fueron de mucha utilidad.</p>
+<p>&quot;Compartir es aprender dos veces!&quot;</p>
+<p>Happy Coding!</p>
+<p>Atte.
+Pablo Yafac Huamanchumo.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -693,17 +699,13 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
-      <title>Portfolio</title>
+      <title>Portafolio</title>
       <link>https://vuepress.pabloyafac.com/portfolio/</link>
       <guid>https://vuepress.pabloyafac.com/portfolio/</guid>
-      <source url="https://vuepress.pabloyafac.com/rss.xml">Portfolio</source>
+      <source url="https://vuepress.pabloyafac.com/rss.xml">Portafolio</source>
       <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="portfolio"> Portfolio</h1>
-<p>Esta es la sección de portfolio.
-Esto es un codigo:</p>
-<div><pre><code>php artisan migrate:reset
-</code></pre>
-<div><span>1</span><br></div></div>]]></content:encoded>
+      <content:encoded><![CDATA[
+]]></content:encoded>
     </item>
     <item>
       <title>Blog</title>

@@ -43,7 +43,7 @@ module.exports = config({
     
     nav: [
       { text: "Blog", link: "/", icon: "home" },
-      { text: "Portfolio", link: "/home/", icon: "folder" },
+      { text: "Portfolio", link: "/portfolio/", icon: "folder" },
       { text: "About Me", link: "/about/", icon: "people" },
       {
         text: "Guide",

@@ -4,10 +4,10 @@ icon: home
 title: Portafolio
 heroImage: /portfolio.png
 heroText: Portafolio
-tagline: En esta seccion contiene los proyecto en los que he aplicado lo aprendido.
+tagline: En esta seccion contiene los proyectos en los que he aplicado lo aprendido.
 action:
   - text: How to Use 💡
-    link: /guide/
+    link: /portfolio/
     type: primary
 
   - text: Blog homepage 🏠

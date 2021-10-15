@@ -175,10 +175,10 @@
       "tags": []
     },
     {
-      "title": "Intro Page",
+      "title": "Bienvenidos",
       "url": "https://vuepress.pabloyafac.com/intro/",
       "id": "https://vuepress.pabloyafac.com/intro/",
-      "content_html": "<h1 id=\"intro-page\"> Intro Page</h1>\n<p>Place your introducation and profile here.</p>\n",
+      "content_html": "<h1 id=\"bienvenidos\"> Bienvenidos</h1>\n<p>Este blog se creo, con el fin de compartir mi experiencia en este apasionante mundo web.\nCompartiré algunos conceptos de programación, ademas de mis errores y aciertos en las diversas tecnologias que ire aprendiendo.\nEsperando que el contenido que suba, pueda ayudarles en su desarrollo. De la misma forma como algunos fabulosos tutoriales en internet me fueron de mucha utilidad.</p>\n<p>&quot;Compartir es aprender dos veces!&quot;</p>\n<p>Happy Coding!</p>\n<p>Atte.\nPablo Yafac Huamanchumo.</p>\n",
       "date_published": "2021-10-09T08:19:29.000Z",
       "date_modified": "2021-10-09T08:19:29.000Z",
       "authors": [
@@ -203,10 +203,10 @@
       "tags": []
     },
     {
-      "title": "Portfolio",
+      "title": "Portafolio",
       "url": "https://vuepress.pabloyafac.com/portfolio/",
       "id": "https://vuepress.pabloyafac.com/portfolio/",
-      "content_html": "<h1 id=\"portfolio\"> Portfolio</h1>\n<p>Esta es la sección de portfolio.\nEsto es un codigo:</p>\n<div><pre><code>php artisan migrate:reset\n</code></pre>\n<div><span>1</span><br></div></div>",
+      "content_html": "\n",
       "date_published": "2021-10-09T08:19:29.000Z",
       "date_modified": "2021-10-14T07:56:11.000Z",
       "authors": [

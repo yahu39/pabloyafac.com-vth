@@ -2,6 +2,16 @@
 icon: info
 ---
 
-# Intro Page
+# Bienvenidos
 
-Place your introducation and profile here.
+Este blog se creo, con el fin de compartir mi experiencia en este apasionante mundo web.
+Compartiré algunos conceptos de programación, ademas de mis errores y aciertos en las diversas tecnologias que ire aprendiendo.
+Esperando que el contenido que suba, pueda ayudarles en su desarrollo. De la misma forma como algunos fabulosos tutoriales en internet me fueron de mucha utilidad.
+
+"Compartir es aprender dos veces!"
+
+
+Happy Coding!
+
+Atte.
+Pablo Yafac Huamanchumo.

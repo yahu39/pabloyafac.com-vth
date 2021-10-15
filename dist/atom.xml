@@ -6,7 +6,7 @@
   <author>
     <name>Pablo Yafac</name>
   </author>
-  <updated>2021-10-14T07:59:02.159Z</updated>
+  <updated>2021-10-15T05:47:33.358Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://vuepress.pabloyafac.com/atom.xml"/>
   <link rel="alternate" href="https://vuepress.pabloyafac.com/"/>
@@ -741,12 +741,18 @@ A custom details container
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
-    <title type="html">Intro Page</title>
+    <title type="html">Bienvenidos</title>
     <id>https://vuepress.pabloyafac.com/intro/</id>
     <link href="https://vuepress.pabloyafac.com/intro/"/>
     <updated>2021-10-09T08:19:29.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="intro-page"> Intro Page</h1>
-<p>Place your introducation and profile here.</p>
+    <content type="html"><![CDATA[<h1 id="bienvenidos"> Bienvenidos</h1>
+<p>Este blog se creo, con el fin de compartir mi experiencia en este apasionante mundo web.
+Compartiré algunos conceptos de programación, ademas de mis errores y aciertos en las diversas tecnologias que ire aprendiendo.
+Esperando que el contenido que suba, pueda ayudarles en su desarrollo. De la misma forma como algunos fabulosos tutoriales en internet me fueron de mucha utilidad.</p>
+<p>&quot;Compartir es aprender dos veces!&quot;</p>
+<p>Happy Coding!</p>
+<p>Atte.
+Pablo Yafac Huamanchumo.</p>
 ]]></content>
     <author>
       <name>Pablo Yafac</name>
@@ -790,16 +796,12 @@ A custom details container
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
-    <title type="html">Portfolio</title>
+    <title type="html">Portafolio</title>
     <id>https://vuepress.pabloyafac.com/portfolio/</id>
     <link href="https://vuepress.pabloyafac.com/portfolio/"/>
     <updated>2021-10-14T07:56:11.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="portfolio"> Portfolio</h1>
-<p>Esta es la sección de portfolio.
-Esto es un codigo:</p>
-<div><pre><code>php artisan migrate:reset
-</code></pre>
-<div><span>1</span><br></div></div>]]></content>
+    <content type="html"><![CDATA[
+]]></content>
     <author>
       <name>Pablo Yafac</name>
     </author>

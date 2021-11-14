@@ -1,43 +1,27 @@
 ---
 title: About
+home: true
 heroImage: /pablo.jpg
-heroText: Pablo Yafac.
-tagline: Web Developer 👨‍💻
+heroText: Hola soy Pablo Yafac.
+tagline: Web Developer 👨‍💻 | Ingeniero de Sistemas 
+
 article: false
+
 action:
-  - text: How to Use 💡
-    link: /guide/
-    type: primary
+- text: Portafolio 📁
+  link: /portfolio/
+  type: primary
 
-  - text: Blog homepage 🏠
-    link: /
+- text: Blog 🏠
+  link: /
 
-features:
-  - title: Markdown Enhance 🧰
-    details: Add align, sup/sub script, footnote, tasklist, tex, flowchart, diagram, mark and presentation support in Markdown
-    link: https://vuepress-theme-hope.github.io/guide/markdown/
-
-  - title: Pageviews and comments 💬
-    details: Start pageview statistics and comment support with Valine and Vssue
-    link: https://vuepress-theme-hope.github.io/guide/feature/comment/
-
-  - title: Article information display ℹ
-    details: Add author, writing date, reading time, word count and other information to your article
-    link: https://vuepress-theme-hope.github.io/guide/feature/page-info/
-
-copyrightText: false
 footer: Copyright © 2021
 ---
-# About Me
-Esta es la sección de about.
-:tada: :100:
+<!-- copyrightText: false -->
+Me desempeño principalmente como PHP Backend Developer , uso Laravel como framework de preferencia. 
 
-Esto es un componente
-<photo-personal />
+Tengo conocimientos además en Java (framework SpringBoot) en lado del Backend y HTML, CSS, Javascript(framework Vue) en lado del Frontend.
 
-
-Esto es un codigo: 
-
-```
-php artisan migrate:reset
-```
+:::right
+[Mis Certificaciones →](/about/certifications)
+:::

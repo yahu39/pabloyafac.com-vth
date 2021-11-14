@@ -44,12 +44,12 @@ module.exports = config({
     nav: [
       { text: "Blog", link: "/", icon: "home" },
       { text: "Portfolio", link: "/portfolio/", icon: "folder" },
-      { text: "About Me", link: "/about/", icon: "people" },
-      {
+      { text: "About Me", link: "/about/", icon: "people" }
+/*       {
         text: "Guide",
         icon: "creative",
         link: "/guide/",
-      },
+      }, */
 /*       {
         text: "Docs",
         link: "https://vuepress-theme-hope.github.io/",
@@ -68,13 +68,13 @@ module.exports = config({
           icon: "people",
           prefix: "about/",
           children: ["", "certifications", "courses", "experience"],
-        },
-        {
+        }
+/*         {
           title: "Guide",
           icon: "creative",
           prefix: "guide/",
           children: ["", "page", "markdown", "disable", "encrypt"],
-        },
+        }, */
       ]
     },
 
@@ -192,7 +192,7 @@ module.exports = config({
           },
         ],
         shortcuts: [
-          {
+/*           {
             name: "Guide",
             short_name: "Guide",
             url: "/guide/",
@@ -210,7 +210,7 @@ module.exports = config({
                 type: "image/png",
               },
             ],
-          },
+          }, */
         ],
       },
     },

@@ -17,7 +17,7 @@ action:
 features:
   - title: dondecomprar.app 🍔
     details: Tecnologias Usadas. PHP, Laravel, Mysql. Aplicacion web en la que puedes adquirir cupones de descuento de las promociones de negocios de tu localidad. 
-    link: https://dondecomprar.app/
+    link: https://aplicacion.dondecomprar.app/
 
   - title: Exchange criptomonedas 📈 ₿
     details: Tecnologias Usadas. Vue, Tailwind, API(api.coincap.io/v2). Pagina que muestra las principales criptomonedas, conversiones y estadistica.

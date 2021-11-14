@@ -1,5 +1,7 @@
 ---
 article: false
 ---
-# Certificados
-Esta es la seccion de certificados
+# Certificaciones
+
++ DevOps Essentials Professional Certificate, Certiprof.
++ Scrum Foundation Professional Certificate, Certiprof.

@@ -1,5 +1,9 @@
 ---
 icon: info
+# this page is sticky in article list
+sticky: true
+# this page will appear in aricle channel in home page
+star: true
 ---
 
 # Bienvenidos

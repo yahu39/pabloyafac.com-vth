@@ -19,3 +19,5 @@ Lista de Curso de Desarrollo Web realizados en Platzi.
 + diploma-basico-javascript.
 + diploma-html-practico.
 + diploma-html-css.
+
+<photo-personal>

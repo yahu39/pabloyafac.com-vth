@@ -6,7 +6,7 @@
   <author>
     <name>Pablo Yafac</name>
   </author>
-  <updated>2021-11-14T05:04:44.710Z</updated>
+  <updated>2022-02-25T06:35:23.947Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://vuepress.pabloyafac.com/atom.xml"/>
   <link rel="alternate" href="https://vuepress.pabloyafac.com/"/>
@@ -36,87 +36,16 @@
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
-    <title type="html">Experiencia</title>
-    <id>https://vuepress.pabloyafac.com/about/experience/</id>
-    <link href="https://vuepress.pabloyafac.com/about/experience/"/>
-    <updated>2021-10-14T07:56:11.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="experiencia"> Experiencia</h1>
-<p>Esta es la seccion de experiencia</p>
-]]></content>
-    <author>
-      <name>Pablo Yafac</name>
-    </author>
-    <contributor>
-      <name>Pablo Yafac</name>
-    </contributor>
-    <published>2021-10-09T08:19:29.000Z</published>
-    <rights>Copyright by Pablo Yafac</rights>
-  </entry>
-  <entry>
-    <title type="html">Bienvenidos</title>
-    <id>https://vuepress.pabloyafac.com/intro/</id>
-    <link href="https://vuepress.pabloyafac.com/intro/"/>
-    <updated>2021-10-15T05:52:23.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="bienvenidos"> Bienvenidos</h1>
-<p>Este blog se creo, con el fin de compartir mi experiencia en este apasionante mundo web.
-Compartiré algunos conceptos de programación, ademas de mis errores y aciertos en las diversas tecnologias que ire aprendiendo.
-Esperando que el contenido que suba, pueda ayudarles en su desarrollo. De la misma forma como algunos fabulosos tutoriales en internet me fueron de mucha utilidad.</p>
-<p>&quot;Compartir es aprender dos veces!&quot;</p>
-<p>Happy Coding!</p>
-<p>Atte.
-Pablo Yafac Huamanchumo.</p>
-]]></content>
-    <author>
-      <name>Pablo Yafac</name>
-    </author>
-    <contributor>
-      <name>Pablo Yafac</name>
-    </contributor>
-    <published>2021-10-09T08:19:29.000Z</published>
-    <rights>Copyright by Pablo Yafac</rights>
-  </entry>
-  <entry>
-    <title type="html">Portafolio</title>
-    <id>https://vuepress.pabloyafac.com/portfolio/</id>
-    <link href="https://vuepress.pabloyafac.com/portfolio/"/>
-    <updated>2021-11-14T04:49:25.000Z</updated>
-    <content type="html"><![CDATA[
-]]></content>
-    <author>
-      <name>Pablo Yafac</name>
-    </author>
-    <contributor>
-      <name>Pablo Yafac</name>
-    </contributor>
-    <published>2021-10-09T08:19:29.000Z</published>
-    <rights>Copyright by Pablo Yafac</rights>
-  </entry>
-  <entry>
-    <title type="html">Blog</title>
-    <id>https://vuepress.pabloyafac.com/</id>
-    <link href="https://vuepress.pabloyafac.com/"/>
-    <updated>2021-10-09T08:19:29.000Z</updated>
-    <content type="html"><![CDATA[
-
-]]></content>
-    <author>
-      <name>Pablo Yafac</name>
-    </author>
-    <contributor>
-      <name>Pablo Yafac</name>
-    </contributor>
-    <published>2021-10-09T08:19:29.000Z</published>
-    <rights>Copyright by Pablo Yafac</rights>
-  </entry>
-  <entry>
     <title type="html">Certificaciones</title>
     <id>https://vuepress.pabloyafac.com/about/certifications/</id>
     <link href="https://vuepress.pabloyafac.com/about/certifications/"/>
     <updated>2021-11-14T04:49:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="certificaciones"> Certificaciones</h1>
 <ul>
-<li>DevOps Essentials Professional Certificate, Certiprof.</li>
-<li>Scrum Foundation Professional Certificate, Certiprof.</li>
+<li>DevOps Essentials Professional Certificate, Certiprof.
+<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-devops.jpg" alt="DevOps" /></li>
+<li>Scrum Foundation Professional Certificate, Certiprof.
+<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg" alt="DevOps" /></li>
 </ul>
 ]]></content>
     <author>
@@ -133,6 +62,22 @@ Pablo Yafac Huamanchumo.</p>
     <id>https://vuepress.pabloyafac.com/home/</id>
     <link href="https://vuepress.pabloyafac.com/home/"/>
     <updated>2021-10-15T05:52:23.000Z</updated>
+    <content type="html"><![CDATA[
+]]></content>
+    <author>
+      <name>Pablo Yafac</name>
+    </author>
+    <contributor>
+      <name>Pablo Yafac</name>
+    </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
+    <rights>Copyright by Pablo Yafac</rights>
+  </entry>
+  <entry>
+    <title type="html">Portafolio</title>
+    <id>https://vuepress.pabloyafac.com/portfolio/</id>
+    <link href="https://vuepress.pabloyafac.com/portfolio/"/>
+    <updated>2021-11-14T04:49:25.000Z</updated>
     <content type="html"><![CDATA[
 ]]></content>
     <author>
@@ -170,6 +115,63 @@ Pablo Yafac Huamanchumo.</p>
 <li>diploma-html-practico.</li>
 <li>diploma-html-css.</li>
 </ul>
+<photo-personal>]]></content>
+    <author>
+      <name>Pablo Yafac</name>
+    </author>
+    <contributor>
+      <name>Pablo Yafac</name>
+    </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
+    <rights>Copyright by Pablo Yafac</rights>
+  </entry>
+  <entry>
+    <title type="html">Blog</title>
+    <id>https://vuepress.pabloyafac.com/</id>
+    <link href="https://vuepress.pabloyafac.com/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
+    <content type="html"><![CDATA[
+
+]]></content>
+    <author>
+      <name>Pablo Yafac</name>
+    </author>
+    <contributor>
+      <name>Pablo Yafac</name>
+    </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
+    <rights>Copyright by Pablo Yafac</rights>
+  </entry>
+  <entry>
+    <title type="html">Bienvenidos</title>
+    <id>https://vuepress.pabloyafac.com/intro/</id>
+    <link href="https://vuepress.pabloyafac.com/intro/"/>
+    <updated>2021-10-15T05:52:23.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="bienvenidos"> Bienvenidos</h1>
+<p>Este blog se creo, con el fin de compartir mi experiencia en este apasionante mundo web.
+Compartiré algunos conceptos de programación, ademas de mis errores y aciertos en las diversas tecnologias que ire aprendiendo.
+Esperando que el contenido que suba, pueda ayudarles en su desarrollo. De la misma forma como algunos fabulosos tutoriales en internet me fueron de mucha utilidad.</p>
+<p>&quot;Compartir es aprender dos veces!&quot;</p>
+<p>Happy Coding!</p>
+<p>Atte.
+Pablo Yafac Huamanchumo.</p>
+]]></content>
+    <author>
+      <name>Pablo Yafac</name>
+    </author>
+    <contributor>
+      <name>Pablo Yafac</name>
+    </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
+    <rights>Copyright by Pablo Yafac</rights>
+  </entry>
+  <entry>
+    <title type="html">Experiencia</title>
+    <id>https://vuepress.pabloyafac.com/about/experience/</id>
+    <link href="https://vuepress.pabloyafac.com/about/experience/"/>
+    <updated>2021-10-14T07:56:11.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="experiencia"> Experiencia</h1>
+<p>Esta es la seccion de experiencia</p>
 ]]></content>
     <author>
       <name>Pablo Yafac</name>

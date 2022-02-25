@@ -6,8 +6,8 @@
     <link>https://vuepress.pabloyafac.com/</link>
     <description>Blog Personal</description>
     <language>en-US</language>
-    <pubDate>Sun, 14 Nov 2021 05:04:44 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Nov 2021 05:04:44 GMT</lastBuildDate>
+    <pubDate>Fri, 25 Feb 2022 06:35:23 GMT</pubDate>
+    <lastBuildDate>Fri, 25 Feb 2022 06:35:23 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Pablo Yafac</copyright>
@@ -26,51 +26,6 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Experiencia</title>
-      <link>https://vuepress.pabloyafac.com/about/experience/</link>
-      <guid>https://vuepress.pabloyafac.com/about/experience/</guid>
-      <source url="https://vuepress.pabloyafac.com/rss.xml">Experiencia</source>
-      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="experiencia"> Experiencia</h1>
-<p>Esta es la seccion de experiencia</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Bienvenidos</title>
-      <link>https://vuepress.pabloyafac.com/intro/</link>
-      <guid>https://vuepress.pabloyafac.com/intro/</guid>
-      <source url="https://vuepress.pabloyafac.com/rss.xml">Bienvenidos</source>
-      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="bienvenidos"> Bienvenidos</h1>
-<p>Este blog se creo, con el fin de compartir mi experiencia en este apasionante mundo web.
-Compartiré algunos conceptos de programación, ademas de mis errores y aciertos en las diversas tecnologias que ire aprendiendo.
-Esperando que el contenido que suba, pueda ayudarles en su desarrollo. De la misma forma como algunos fabulosos tutoriales en internet me fueron de mucha utilidad.</p>
-<p>&quot;Compartir es aprender dos veces!&quot;</p>
-<p>Happy Coding!</p>
-<p>Atte.
-Pablo Yafac Huamanchumo.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Portafolio</title>
-      <link>https://vuepress.pabloyafac.com/portfolio/</link>
-      <guid>https://vuepress.pabloyafac.com/portfolio/</guid>
-      <source url="https://vuepress.pabloyafac.com/rss.xml">Portafolio</source>
-      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
-      <content:encoded><![CDATA[
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Blog</title>
-      <link>https://vuepress.pabloyafac.com/</link>
-      <guid>https://vuepress.pabloyafac.com/</guid>
-      <source url="https://vuepress.pabloyafac.com/rss.xml">Blog</source>
-      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
-      <content:encoded><![CDATA[
-
-]]></content:encoded>
-    </item>
-    <item>
       <title>Certificaciones</title>
       <link>https://vuepress.pabloyafac.com/about/certifications/</link>
       <guid>https://vuepress.pabloyafac.com/about/certifications/</guid>
@@ -78,8 +33,10 @@ Pablo Yafac Huamanchumo.</p>
       <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="certificaciones"> Certificaciones</h1>
 <ul>
-<li>DevOps Essentials Professional Certificate, Certiprof.</li>
-<li>Scrum Foundation Professional Certificate, Certiprof.</li>
+<li>DevOps Essentials Professional Certificate, Certiprof.
+<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-devops.jpg" alt="DevOps" /></li>
+<li>Scrum Foundation Professional Certificate, Certiprof.
+<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg" alt="DevOps" /></li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -87,6 +44,15 @@ Pablo Yafac Huamanchumo.</p>
       <title>Portafolio</title>
       <link>https://vuepress.pabloyafac.com/home/</link>
       <guid>https://vuepress.pabloyafac.com/home/</guid>
+      <source url="https://vuepress.pabloyafac.com/rss.xml">Portafolio</source>
+      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
+      <content:encoded><![CDATA[
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Portafolio</title>
+      <link>https://vuepress.pabloyafac.com/portfolio/</link>
+      <guid>https://vuepress.pabloyafac.com/portfolio/</guid>
       <source url="https://vuepress.pabloyafac.com/rss.xml">Portafolio</source>
       <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -119,6 +85,42 @@ Pablo Yafac Huamanchumo.</p>
 <li>diploma-html-practico.</li>
 <li>diploma-html-css.</li>
 </ul>
+<photo-personal>]]></content:encoded>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>https://vuepress.pabloyafac.com/</link>
+      <guid>https://vuepress.pabloyafac.com/</guid>
+      <source url="https://vuepress.pabloyafac.com/rss.xml">Blog</source>
+      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
+      <content:encoded><![CDATA[
+
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Bienvenidos</title>
+      <link>https://vuepress.pabloyafac.com/intro/</link>
+      <guid>https://vuepress.pabloyafac.com/intro/</guid>
+      <source url="https://vuepress.pabloyafac.com/rss.xml">Bienvenidos</source>
+      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="bienvenidos"> Bienvenidos</h1>
+<p>Este blog se creo, con el fin de compartir mi experiencia en este apasionante mundo web.
+Compartiré algunos conceptos de programación, ademas de mis errores y aciertos en las diversas tecnologias que ire aprendiendo.
+Esperando que el contenido que suba, pueda ayudarles en su desarrollo. De la misma forma como algunos fabulosos tutoriales en internet me fueron de mucha utilidad.</p>
+<p>&quot;Compartir es aprender dos veces!&quot;</p>
+<p>Happy Coding!</p>
+<p>Atte.
+Pablo Yafac Huamanchumo.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Experiencia</title>
+      <link>https://vuepress.pabloyafac.com/about/experience/</link>
+      <guid>https://vuepress.pabloyafac.com/about/experience/</guid>
+      <source url="https://vuepress.pabloyafac.com/rss.xml">Experiencia</source>
+      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="experiencia"> Experiencia</h1>
+<p>Esta es la seccion de experiencia</p>
 ]]></content:encoded>
     </item>
   </channel>

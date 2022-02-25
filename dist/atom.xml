@@ -6,7 +6,7 @@
   <author>
     <name>Pablo Yafac</name>
   </author>
-  <updated>2022-02-25T06:35:23.947Z</updated>
+  <updated>2022-02-25T06:54:02.409Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://vuepress.pabloyafac.com/atom.xml"/>
   <link rel="alternate" href="https://vuepress.pabloyafac.com/"/>
@@ -39,46 +39,14 @@
     <title type="html">Certificaciones</title>
     <id>https://vuepress.pabloyafac.com/about/certifications/</id>
     <link href="https://vuepress.pabloyafac.com/about/certifications/"/>
-    <updated>2021-11-14T04:49:25.000Z</updated>
+    <updated>2022-02-25T06:51:43.000Z</updated>
     <content type="html"><![CDATA[<h1 id="certificaciones"> Certificaciones</h1>
 <ul>
 <li>DevOps Essentials Professional Certificate, Certiprof.
 <img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-devops.jpg" alt="DevOps" /></li>
 <li>Scrum Foundation Professional Certificate, Certiprof.
-<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg" alt="DevOps" /></li>
+<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg" alt="Scrum" /></li>
 </ul>
-]]></content>
-    <author>
-      <name>Pablo Yafac</name>
-    </author>
-    <contributor>
-      <name>Pablo Yafac</name>
-    </contributor>
-    <published>2021-10-09T08:19:29.000Z</published>
-    <rights>Copyright by Pablo Yafac</rights>
-  </entry>
-  <entry>
-    <title type="html">Portafolio</title>
-    <id>https://vuepress.pabloyafac.com/home/</id>
-    <link href="https://vuepress.pabloyafac.com/home/"/>
-    <updated>2021-10-15T05:52:23.000Z</updated>
-    <content type="html"><![CDATA[
-]]></content>
-    <author>
-      <name>Pablo Yafac</name>
-    </author>
-    <contributor>
-      <name>Pablo Yafac</name>
-    </contributor>
-    <published>2021-10-09T08:19:29.000Z</published>
-    <rights>Copyright by Pablo Yafac</rights>
-  </entry>
-  <entry>
-    <title type="html">Portafolio</title>
-    <id>https://vuepress.pabloyafac.com/portfolio/</id>
-    <link href="https://vuepress.pabloyafac.com/portfolio/"/>
-    <updated>2021-11-14T04:49:25.000Z</updated>
-    <content type="html"><![CDATA[
 ]]></content>
     <author>
       <name>Pablo Yafac</name>
@@ -93,7 +61,7 @@
     <title type="html">Cursos</title>
     <id>https://vuepress.pabloyafac.com/about/courses/</id>
     <link href="https://vuepress.pabloyafac.com/about/courses/"/>
-    <updated>2021-11-14T04:49:25.000Z</updated>
+    <updated>2022-02-25T06:39:07.000Z</updated>
     <content type="html"><![CDATA[<h1 id="cursos"> Cursos</h1>
 <p>Lista de Curso de Desarrollo Web realizados en Platzi.</p>
 <h2 id="backend"> Backend</h2>
@@ -126,12 +94,11 @@
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
-    <title type="html">Blog</title>
-    <id>https://vuepress.pabloyafac.com/</id>
-    <link href="https://vuepress.pabloyafac.com/"/>
-    <updated>2021-10-09T08:19:29.000Z</updated>
+    <title type="html">Portafolio</title>
+    <id>https://vuepress.pabloyafac.com/home/</id>
+    <link href="https://vuepress.pabloyafac.com/home/"/>
+    <updated>2021-10-15T05:52:23.000Z</updated>
     <content type="html"><![CDATA[
-
 ]]></content>
     <author>
       <name>Pablo Yafac</name>
@@ -146,7 +113,7 @@
     <title type="html">Bienvenidos</title>
     <id>https://vuepress.pabloyafac.com/intro/</id>
     <link href="https://vuepress.pabloyafac.com/intro/"/>
-    <updated>2021-10-15T05:52:23.000Z</updated>
+    <updated>2022-02-25T06:39:07.000Z</updated>
     <content type="html"><![CDATA[<h1 id="bienvenidos"> Bienvenidos</h1>
 <p>Este blog se creo, con el fin de compartir mi experiencia en este apasionante mundo web.
 Compartiré algunos conceptos de programación, ademas de mis errores y aciertos en las diversas tecnologias que ire aprendiendo.
@@ -155,6 +122,39 @@ Esperando que el contenido que suba, pueda ayudarles en su desarrollo. De la mis
 <p>Happy Coding!</p>
 <p>Atte.
 Pablo Yafac Huamanchumo.</p>
+]]></content>
+    <author>
+      <name>Pablo Yafac</name>
+    </author>
+    <contributor>
+      <name>Pablo Yafac</name>
+    </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
+    <rights>Copyright by Pablo Yafac</rights>
+  </entry>
+  <entry>
+    <title type="html">Portafolio</title>
+    <id>https://vuepress.pabloyafac.com/portfolio/</id>
+    <link href="https://vuepress.pabloyafac.com/portfolio/"/>
+    <updated>2021-11-14T04:49:25.000Z</updated>
+    <content type="html"><![CDATA[
+]]></content>
+    <author>
+      <name>Pablo Yafac</name>
+    </author>
+    <contributor>
+      <name>Pablo Yafac</name>
+    </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
+    <rights>Copyright by Pablo Yafac</rights>
+  </entry>
+  <entry>
+    <title type="html">Blog</title>
+    <id>https://vuepress.pabloyafac.com/</id>
+    <link href="https://vuepress.pabloyafac.com/"/>
+    <updated>2021-10-09T08:19:29.000Z</updated>
+    <content type="html"><![CDATA[
+
 ]]></content>
     <author>
       <name>Pablo Yafac</name>

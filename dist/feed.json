@@ -26,9 +26,23 @@
       "title": "Certificaciones",
       "url": "https://vuepress.pabloyafac.com/about/certifications/",
       "id": "https://vuepress.pabloyafac.com/about/certifications/",
-      "content_html": "<h1 id=\"certificaciones\"> Certificaciones</h1>\n<ul>\n<li>DevOps Essentials Professional Certificate, Certiprof.\n<img src=\"./../../docs/.vuepress/public/platzi/certiprof/certificate-devops.jpg\" alt=\"DevOps\" /></li>\n<li>Scrum Foundation Professional Certificate, Certiprof.\n<img src=\"./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg\" alt=\"DevOps\" /></li>\n</ul>\n",
+      "content_html": "<h1 id=\"certificaciones\"> Certificaciones</h1>\n<ul>\n<li>DevOps Essentials Professional Certificate, Certiprof.\n<img src=\"./../../docs/.vuepress/public/platzi/certiprof/certificate-devops.jpg\" alt=\"DevOps\" /></li>\n<li>Scrum Foundation Professional Certificate, Certiprof.\n<img src=\"./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg\" alt=\"Scrum\" /></li>\n</ul>\n",
       "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2021-11-14T04:49:25.000Z",
+      "date_modified": "2022-02-25T06:51:43.000Z",
+      "authors": [
+        {
+          "name": "Pablo Yafac"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Cursos",
+      "url": "https://vuepress.pabloyafac.com/about/courses/",
+      "id": "https://vuepress.pabloyafac.com/about/courses/",
+      "content_html": "<h1 id=\"cursos\"> Cursos</h1>\n<p>Lista de Curso de Desarrollo Web realizados en Platzi.</p>\n<h2 id=\"backend\"> Backend</h2>\n<ul>\n<li>diploma-intro-laravel-2020.</li>\n<li>diploma-oop.</li>\n<li>diploma-java-basico.</li>\n<li>diploma-java-persistencia.</li>\n<li>diploma-terminal.</li>\n</ul>\n<h2 id=\"frontend\"> Frontend:</h2>\n<ul>\n<li>diploma-vuejs2.</li>\n<li>diploma-woocommerce.</li>\n<li>diploma-ecmascript-6.</li>\n<li>diploma-asincronismo-js.</li>\n<li>diploma-javascript-navegador.</li>\n<li>diploma-basico-javascript.</li>\n<li>diploma-html-practico.</li>\n<li>diploma-html-css.</li>\n</ul>\n<photo-personal>",
+      "date_published": "2021-10-09T08:19:29.000Z",
+      "date_modified": "2022-02-25T06:39:07.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"
@@ -51,12 +65,12 @@
       "tags": []
     },
     {
-      "title": "Portafolio",
-      "url": "https://vuepress.pabloyafac.com/portfolio/",
-      "id": "https://vuepress.pabloyafac.com/portfolio/",
-      "content_html": "\n",
+      "title": "Bienvenidos",
+      "url": "https://vuepress.pabloyafac.com/intro/",
+      "id": "https://vuepress.pabloyafac.com/intro/",
+      "content_html": "<h1 id=\"bienvenidos\"> Bienvenidos</h1>\n<p>Este blog se creo, con el fin de compartir mi experiencia en este apasionante mundo web.\nCompartiré algunos conceptos de programación, ademas de mis errores y aciertos en las diversas tecnologias que ire aprendiendo.\nEsperando que el contenido que suba, pueda ayudarles en su desarrollo. De la misma forma como algunos fabulosos tutoriales en internet me fueron de mucha utilidad.</p>\n<p>&quot;Compartir es aprender dos veces!&quot;</p>\n<p>Happy Coding!</p>\n<p>Atte.\nPablo Yafac Huamanchumo.</p>\n",
       "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2021-11-14T04:49:25.000Z",
+      "date_modified": "2022-02-25T06:39:07.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"
@@ -65,10 +79,10 @@
       "tags": []
     },
     {
-      "title": "Cursos",
-      "url": "https://vuepress.pabloyafac.com/about/courses/",
-      "id": "https://vuepress.pabloyafac.com/about/courses/",
-      "content_html": "<h1 id=\"cursos\"> Cursos</h1>\n<p>Lista de Curso de Desarrollo Web realizados en Platzi.</p>\n<h2 id=\"backend\"> Backend</h2>\n<ul>\n<li>diploma-intro-laravel-2020.</li>\n<li>diploma-oop.</li>\n<li>diploma-java-basico.</li>\n<li>diploma-java-persistencia.</li>\n<li>diploma-terminal.</li>\n</ul>\n<h2 id=\"frontend\"> Frontend:</h2>\n<ul>\n<li>diploma-vuejs2.</li>\n<li>diploma-woocommerce.</li>\n<li>diploma-ecmascript-6.</li>\n<li>diploma-asincronismo-js.</li>\n<li>diploma-javascript-navegador.</li>\n<li>diploma-basico-javascript.</li>\n<li>diploma-html-practico.</li>\n<li>diploma-html-css.</li>\n</ul>\n<photo-personal>",
+      "title": "Portafolio",
+      "url": "https://vuepress.pabloyafac.com/portfolio/",
+      "id": "https://vuepress.pabloyafac.com/portfolio/",
+      "content_html": "\n",
       "date_published": "2021-10-09T08:19:29.000Z",
       "date_modified": "2021-11-14T04:49:25.000Z",
       "authors": [
@@ -85,20 +99,6 @@
       "content_html": "\n\n",
       "date_published": "2021-10-09T08:19:29.000Z",
       "date_modified": "2021-10-09T08:19:29.000Z",
-      "authors": [
-        {
-          "name": "Pablo Yafac"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Bienvenidos",
-      "url": "https://vuepress.pabloyafac.com/intro/",
-      "id": "https://vuepress.pabloyafac.com/intro/",
-      "content_html": "<h1 id=\"bienvenidos\"> Bienvenidos</h1>\n<p>Este blog se creo, con el fin de compartir mi experiencia en este apasionante mundo web.\nCompartiré algunos conceptos de programación, ademas de mis errores y aciertos en las diversas tecnologias que ire aprendiendo.\nEsperando que el contenido que suba, pueda ayudarles en su desarrollo. De la misma forma como algunos fabulosos tutoriales en internet me fueron de mucha utilidad.</p>\n<p>&quot;Compartir es aprender dos veces!&quot;</p>\n<p>Happy Coding!</p>\n<p>Atte.\nPablo Yafac Huamanchumo.</p>\n",
-      "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2021-10-15T05:52:23.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"

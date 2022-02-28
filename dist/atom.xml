@@ -6,7 +6,7 @@
   <author>
     <name>Pablo Yafac</name>
   </author>
-  <updated>2022-02-28T07:01:29.986Z</updated>
+  <updated>2022-02-28T16:04:36.807Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://vuepress.pabloyafac.com/atom.xml"/>
   <link rel="alternate" href="https://vuepress.pabloyafac.com/"/>
@@ -25,28 +25,6 @@
 <div>
 <p><a href="/about/certifications">Mis Certificaciones →</a></p>
 </div>
-]]></content>
-    <author>
-      <name>Pablo Yafac</name>
-    </author>
-    <contributor>
-      <name>Pablo Yafac</name>
-    </contributor>
-    <published>2021-10-09T08:19:29.000Z</published>
-    <rights>Copyright by Pablo Yafac</rights>
-  </entry>
-  <entry>
-    <title type="html">Certificaciones</title>
-    <id>https://vuepress.pabloyafac.com/about/certifications/</id>
-    <link href="https://vuepress.pabloyafac.com/about/certifications/"/>
-    <updated>2022-02-25T06:51:43.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="certificaciones"> Certificaciones</h1>
-<ul>
-<li>DevOps Essentials Professional Certificate, Certiprof.
-<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-devops.jpg" alt="DevOps" /></li>
-<li>Scrum Foundation Professional Certificate, Certiprof.
-<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg" alt="Scrum" /></li>
-</ul>
 ]]></content>
     <author>
       <name>Pablo Yafac</name>
@@ -110,12 +88,17 @@
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
-    <title type="html">Experiencia</title>
-    <id>https://vuepress.pabloyafac.com/about/experience/</id>
-    <link href="https://vuepress.pabloyafac.com/about/experience/"/>
-    <updated>2021-10-14T07:56:11.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="experiencia"> Experiencia</h1>
-<p>Esta es la seccion de experiencia</p>
+    <title type="html">Certificaciones</title>
+    <id>https://vuepress.pabloyafac.com/about/certifications/</id>
+    <link href="https://vuepress.pabloyafac.com/about/certifications/"/>
+    <updated>2022-02-25T06:51:43.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="certificaciones"> Certificaciones</h1>
+<ul>
+<li>DevOps Essentials Professional Certificate, Certiprof.
+<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-devops.jpg" alt="DevOps" /></li>
+<li>Scrum Foundation Professional Certificate, Certiprof.
+<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg" alt="Scrum" /></li>
+</ul>
 ]]></content>
     <author>
       <name>Pablo Yafac</name>
@@ -155,6 +138,25 @@ Esperando que el contenido que suba, pueda ayudarles en su desarrollo. De la mis
 <p>Happy Coding!</p>
 <p>Atte.
 Pablo Yafac Huamanchumo.</p>
+]]></content>
+    <author>
+      <name>Pablo Yafac</name>
+    </author>
+    <contributor>
+      <name>Pablo Yafac</name>
+    </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
+    <rights>Copyright by Pablo Yafac</rights>
+  </entry>
+  <entry>
+    <title type="html">Experiencia</title>
+    <id>https://vuepress.pabloyafac.com/about/experience/</id>
+    <link href="https://vuepress.pabloyafac.com/about/experience/"/>
+    <updated>2021-10-14T07:56:11.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="experiencia"> Experiencia</h1>
+<ul>
+<li>ASIS TECHNOLOGY PARTNERS</li>
+</ul>
 ]]></content>
     <author>
       <name>Pablo Yafac</name>

@@ -23,20 +23,6 @@
       "tags": []
     },
     {
-      "title": "Certificaciones",
-      "url": "https://vuepress.pabloyafac.com/about/certifications/",
-      "id": "https://vuepress.pabloyafac.com/about/certifications/",
-      "content_html": "<h1 id=\"certificaciones\"> Certificaciones</h1>\n<ul>\n<li>DevOps Essentials Professional Certificate, Certiprof.\n<img src=\"./../../docs/.vuepress/public/platzi/certiprof/certificate-devops.jpg\" alt=\"DevOps\" /></li>\n<li>Scrum Foundation Professional Certificate, Certiprof.\n<img src=\"./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg\" alt=\"Scrum\" /></li>\n</ul>\n",
-      "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2022-02-25T06:51:43.000Z",
-      "authors": [
-        {
-          "name": "Pablo Yafac"
-        }
-      ],
-      "tags": []
-    },
-    {
       "title": "Cursos",
       "url": "https://vuepress.pabloyafac.com/about/courses/",
       "id": "https://vuepress.pabloyafac.com/about/courses/",
@@ -51,12 +37,12 @@
       "tags": []
     },
     {
-      "title": "Experiencia",
-      "url": "https://vuepress.pabloyafac.com/about/experience/",
-      "id": "https://vuepress.pabloyafac.com/about/experience/",
-      "content_html": "<h1 id=\"experiencia\"> Experiencia</h1>\n<p>Esta es la seccion de experiencia</p>\n",
+      "title": "Certificaciones",
+      "url": "https://vuepress.pabloyafac.com/about/certifications/",
+      "id": "https://vuepress.pabloyafac.com/about/certifications/",
+      "content_html": "<h1 id=\"certificaciones\"> Certificaciones</h1>\n<ul>\n<li>DevOps Essentials Professional Certificate, Certiprof.\n<img src=\"./../../docs/.vuepress/public/platzi/certiprof/certificate-devops.jpg\" alt=\"DevOps\" /></li>\n<li>Scrum Foundation Professional Certificate, Certiprof.\n<img src=\"./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg\" alt=\"Scrum\" /></li>\n</ul>\n",
       "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2021-10-14T07:56:11.000Z",
+      "date_modified": "2022-02-25T06:51:43.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"
@@ -85,6 +71,20 @@
       "content_html": "<h1 id=\"bienvenidos\"> Bienvenidos</h1>\n<p>Este blog se creo, con el fin de compartir mi experiencia en este apasionante mundo web.\nCompartiré algunos conceptos de programación, ademas de mis errores y aciertos en las diversas tecnologias que ire aprendiendo.\nEsperando que el contenido que suba, pueda ayudarles en su desarrollo. De la misma forma como algunos fabulosos tutoriales en internet me fueron de mucha utilidad.</p>\n<p>&quot;Compartir es aprender dos veces!&quot;</p>\n<p>Happy Coding!</p>\n<p>Atte.\nPablo Yafac Huamanchumo.</p>\n",
       "date_published": "2021-10-09T08:19:29.000Z",
       "date_modified": "2022-02-25T06:39:07.000Z",
+      "authors": [
+        {
+          "name": "Pablo Yafac"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Experiencia",
+      "url": "https://vuepress.pabloyafac.com/about/experience/",
+      "id": "https://vuepress.pabloyafac.com/about/experience/",
+      "content_html": "<h1 id=\"experiencia\"> Experiencia</h1>\n<ul>\n<li>ASIS TECHNOLOGY PARTNERS</li>\n</ul>\n",
+      "date_published": "2021-10-09T08:19:29.000Z",
+      "date_modified": "2021-10-14T07:56:11.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"

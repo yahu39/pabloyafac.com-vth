@@ -6,7 +6,7 @@
   <author>
     <name>Pablo Yafac</name>
   </author>
-  <updated>2022-02-28T16:04:36.807Z</updated>
+  <updated>2022-02-28T19:30:41.008Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://vuepress.pabloyafac.com/atom.xml"/>
   <link rel="alternate" href="https://vuepress.pabloyafac.com/"/>
@@ -110,52 +110,40 @@
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
-    <title type="html">Portafolio</title>
-    <id>https://vuepress.pabloyafac.com/home/</id>
-    <link href="https://vuepress.pabloyafac.com/home/"/>
-    <updated>2021-10-15T05:52:23.000Z</updated>
-    <content type="html"><![CDATA[
-]]></content>
-    <author>
-      <name>Pablo Yafac</name>
-    </author>
-    <contributor>
-      <name>Pablo Yafac</name>
-    </contributor>
-    <published>2021-10-09T08:19:29.000Z</published>
-    <rights>Copyright by Pablo Yafac</rights>
-  </entry>
-  <entry>
-    <title type="html">Bienvenidos</title>
-    <id>https://vuepress.pabloyafac.com/intro/</id>
-    <link href="https://vuepress.pabloyafac.com/intro/"/>
-    <updated>2022-02-25T06:39:07.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="bienvenidos"> Bienvenidos</h1>
-<p>Este blog se creo, con el fin de compartir mi experiencia en este apasionante mundo web.
-Compartiré algunos conceptos de programación, ademas de mis errores y aciertos en las diversas tecnologias que ire aprendiendo.
-Esperando que el contenido que suba, pueda ayudarles en su desarrollo. De la misma forma como algunos fabulosos tutoriales en internet me fueron de mucha utilidad.</p>
-<p>&quot;Compartir es aprender dos veces!&quot;</p>
-<p>Happy Coding!</p>
-<p>Atte.
-Pablo Yafac Huamanchumo.</p>
-]]></content>
-    <author>
-      <name>Pablo Yafac</name>
-    </author>
-    <contributor>
-      <name>Pablo Yafac</name>
-    </contributor>
-    <published>2021-10-09T08:19:29.000Z</published>
-    <rights>Copyright by Pablo Yafac</rights>
-  </entry>
-  <entry>
     <title type="html">Experiencia</title>
     <id>https://vuepress.pabloyafac.com/about/experience/</id>
     <link href="https://vuepress.pabloyafac.com/about/experience/"/>
-    <updated>2021-10-14T07:56:11.000Z</updated>
+    <updated>2022-02-28T19:25:07.000Z</updated>
     <content type="html"><![CDATA[<h1 id="experiencia"> Experiencia</h1>
+<h2 id="asis-technology-partners-san-isidro-lima"> Asis Technology Partners, San Isidro - Lima:</h2>
 <ul>
-<li>ASIS TECHNOLOGY PARTNERS</li>
+<li>Diciembre 2021 - Actualidad</li>
+<li>PHP | Python Backend Developer</li>
+</ul>
+<h2 id="kalp-peru-s-a-c-chiclayo"> Kalp Perú S.A.C, Chiclayo :</h2>
+<ul>
+<li>Octubre 2020 – Noviembre 2021</li>
+<li>PHP Backend Developer</li>
+</ul>
+<h2 id="barja-y-vasques-iesemin-s-a-c-comas-lima"> Barja y Vasques Iesemin S.A.C, Comas - Lima:</h2>
+<ul>
+<li>Febrero de 2019 - Julio 2020</li>
+<li>Desarrollador Web</li>
+</ul>
+<h2 id="supermercados-tottus-leguia-chiclayo-lambayeque"> Supermercados Tottus Leguía, Chiclayo - Lambayeque</h2>
+<ul>
+<li>Julio de 2013 - Octubre de 2017</li>
+<li>Asistente de Gerencia.</li>
+</ul>
+<h2 id="supermercados-tottus-belaunde-lora-y-lora-chiclayo-lambayeque"> Supermercados Tottus Belaunde Lora y Lora, Chiclayo - Lambayeque</h2>
+<ul>
+<li>Septiembre de 2011 - Junio de 2013</li>
+<li>Administrador de sistemas y equipos de cómputo de usuarios finales.</li>
+</ul>
+<h2 id="hipermercados-tottus-mall-chiclayo-lambayeque"> Hipermercados Tottus Mall, Chiclayo - Lambayeque</h2>
+<ul>
+<li>Agosto de 2010 - Agosto de 2011</li>
+<li>Operador de Sistemas.</li>
 </ul>
 ]]></content>
     <author>
@@ -184,12 +172,51 @@ Pablo Yafac Huamanchumo.</p>
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
+    <title type="html">Portafolio</title>
+    <id>https://vuepress.pabloyafac.com/home/</id>
+    <link href="https://vuepress.pabloyafac.com/home/"/>
+    <updated>2021-10-15T05:52:23.000Z</updated>
+    <content type="html"><![CDATA[
+]]></content>
+    <author>
+      <name>Pablo Yafac</name>
+    </author>
+    <contributor>
+      <name>Pablo Yafac</name>
+    </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
+    <rights>Copyright by Pablo Yafac</rights>
+  </entry>
+  <entry>
     <title type="html">Blog</title>
     <id>https://vuepress.pabloyafac.com/</id>
     <link href="https://vuepress.pabloyafac.com/"/>
     <updated>2021-10-09T08:19:29.000Z</updated>
     <content type="html"><![CDATA[
 
+]]></content>
+    <author>
+      <name>Pablo Yafac</name>
+    </author>
+    <contributor>
+      <name>Pablo Yafac</name>
+    </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
+    <rights>Copyright by Pablo Yafac</rights>
+  </entry>
+  <entry>
+    <title type="html">Bienvenidos</title>
+    <id>https://vuepress.pabloyafac.com/intro/</id>
+    <link href="https://vuepress.pabloyafac.com/intro/"/>
+    <updated>2022-02-25T06:39:07.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="bienvenidos"> Bienvenidos</h1>
+<p>Este blog se creo, con el fin de compartir mi experiencia en este apasionante mundo web.
+Compartiré algunos conceptos de programación, ademas de mis errores y aciertos en las diversas tecnologias que ire aprendiendo.
+Esperando que el contenido que suba, pueda ayudarles en su desarrollo. De la misma forma como algunos fabulosos tutoriales en internet me fueron de mucha utilidad.</p>
+<p>&quot;Compartir es aprender dos veces!&quot;</p>
+<p>Happy Coding!</p>
+<p>Atte.
+Pablo Yafac Huamanchumo.</p>
 ]]></content>
     <author>
       <name>Pablo Yafac</name>

@@ -6,8 +6,8 @@
     <link>https://vuepress.pabloyafac.com/</link>
     <description>Blog Personal</description>
     <language>en-US</language>
-    <pubDate>Mon, 28 Feb 2022 16:04:36 GMT</pubDate>
-    <lastBuildDate>Mon, 28 Feb 2022 16:04:36 GMT</lastBuildDate>
+    <pubDate>Mon, 28 Feb 2022 19:30:41 GMT</pubDate>
+    <lastBuildDate>Mon, 28 Feb 2022 19:30:41 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright by Pablo Yafac</copyright>
@@ -86,12 +86,70 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>Experiencia</title>
+      <link>https://vuepress.pabloyafac.com/about/experience/</link>
+      <guid>https://vuepress.pabloyafac.com/about/experience/</guid>
+      <source url="https://vuepress.pabloyafac.com/rss.xml">Experiencia</source>
+      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="experiencia"> Experiencia</h1>
+<h2 id="asis-technology-partners-san-isidro-lima"> Asis Technology Partners, San Isidro - Lima:</h2>
+<ul>
+<li>Diciembre 2021 - Actualidad</li>
+<li>PHP | Python Backend Developer</li>
+</ul>
+<h2 id="kalp-peru-s-a-c-chiclayo"> Kalp Perú S.A.C, Chiclayo :</h2>
+<ul>
+<li>Octubre 2020 – Noviembre 2021</li>
+<li>PHP Backend Developer</li>
+</ul>
+<h2 id="barja-y-vasques-iesemin-s-a-c-comas-lima"> Barja y Vasques Iesemin S.A.C, Comas - Lima:</h2>
+<ul>
+<li>Febrero de 2019 - Julio 2020</li>
+<li>Desarrollador Web</li>
+</ul>
+<h2 id="supermercados-tottus-leguia-chiclayo-lambayeque"> Supermercados Tottus Leguía, Chiclayo - Lambayeque</h2>
+<ul>
+<li>Julio de 2013 - Octubre de 2017</li>
+<li>Asistente de Gerencia.</li>
+</ul>
+<h2 id="supermercados-tottus-belaunde-lora-y-lora-chiclayo-lambayeque"> Supermercados Tottus Belaunde Lora y Lora, Chiclayo - Lambayeque</h2>
+<ul>
+<li>Septiembre de 2011 - Junio de 2013</li>
+<li>Administrador de sistemas y equipos de cómputo de usuarios finales.</li>
+</ul>
+<h2 id="hipermercados-tottus-mall-chiclayo-lambayeque"> Hipermercados Tottus Mall, Chiclayo - Lambayeque</h2>
+<ul>
+<li>Agosto de 2010 - Agosto de 2011</li>
+<li>Operador de Sistemas.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Portafolio</title>
+      <link>https://vuepress.pabloyafac.com/portfolio/</link>
+      <guid>https://vuepress.pabloyafac.com/portfolio/</guid>
+      <source url="https://vuepress.pabloyafac.com/rss.xml">Portafolio</source>
+      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
+      <content:encoded><![CDATA[
+]]></content:encoded>
+    </item>
+    <item>
       <title>Portafolio</title>
       <link>https://vuepress.pabloyafac.com/home/</link>
       <guid>https://vuepress.pabloyafac.com/home/</guid>
       <source url="https://vuepress.pabloyafac.com/rss.xml">Portafolio</source>
       <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
       <content:encoded><![CDATA[
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>https://vuepress.pabloyafac.com/</link>
+      <guid>https://vuepress.pabloyafac.com/</guid>
+      <source url="https://vuepress.pabloyafac.com/rss.xml">Blog</source>
+      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
+      <content:encoded><![CDATA[
+
 ]]></content:encoded>
     </item>
     <item>
@@ -108,37 +166,6 @@ Esperando que el contenido que suba, pueda ayudarles en su desarrollo. De la mis
 <p>Happy Coding!</p>
 <p>Atte.
 Pablo Yafac Huamanchumo.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Experiencia</title>
-      <link>https://vuepress.pabloyafac.com/about/experience/</link>
-      <guid>https://vuepress.pabloyafac.com/about/experience/</guid>
-      <source url="https://vuepress.pabloyafac.com/rss.xml">Experiencia</source>
-      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="experiencia"> Experiencia</h1>
-<ul>
-<li>ASIS TECHNOLOGY PARTNERS</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Portafolio</title>
-      <link>https://vuepress.pabloyafac.com/portfolio/</link>
-      <guid>https://vuepress.pabloyafac.com/portfolio/</guid>
-      <source url="https://vuepress.pabloyafac.com/rss.xml">Portafolio</source>
-      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
-      <content:encoded><![CDATA[
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Blog</title>
-      <link>https://vuepress.pabloyafac.com/</link>
-      <guid>https://vuepress.pabloyafac.com/</guid>
-      <source url="https://vuepress.pabloyafac.com/rss.xml">Blog</source>
-      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
-      <content:encoded><![CDATA[
-
 ]]></content:encoded>
     </item>
   </channel>

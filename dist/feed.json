@@ -51,40 +51,12 @@
       "tags": []
     },
     {
-      "title": "Portafolio",
-      "url": "https://vuepress.pabloyafac.com/home/",
-      "id": "https://vuepress.pabloyafac.com/home/",
-      "content_html": "\n",
-      "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2021-10-15T05:52:23.000Z",
-      "authors": [
-        {
-          "name": "Pablo Yafac"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "Bienvenidos",
-      "url": "https://vuepress.pabloyafac.com/intro/",
-      "id": "https://vuepress.pabloyafac.com/intro/",
-      "content_html": "<h1 id=\"bienvenidos\"> Bienvenidos</h1>\n<p>Este blog se creo, con el fin de compartir mi experiencia en este apasionante mundo web.\nCompartiré algunos conceptos de programación, ademas de mis errores y aciertos en las diversas tecnologias que ire aprendiendo.\nEsperando que el contenido que suba, pueda ayudarles en su desarrollo. De la misma forma como algunos fabulosos tutoriales en internet me fueron de mucha utilidad.</p>\n<p>&quot;Compartir es aprender dos veces!&quot;</p>\n<p>Happy Coding!</p>\n<p>Atte.\nPablo Yafac Huamanchumo.</p>\n",
-      "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2022-02-25T06:39:07.000Z",
-      "authors": [
-        {
-          "name": "Pablo Yafac"
-        }
-      ],
-      "tags": []
-    },
-    {
       "title": "Experiencia",
       "url": "https://vuepress.pabloyafac.com/about/experience/",
       "id": "https://vuepress.pabloyafac.com/about/experience/",
-      "content_html": "<h1 id=\"experiencia\"> Experiencia</h1>\n<ul>\n<li>ASIS TECHNOLOGY PARTNERS</li>\n</ul>\n",
+      "content_html": "<h1 id=\"experiencia\"> Experiencia</h1>\n<h2 id=\"asis-technology-partners-san-isidro-lima\"> Asis Technology Partners, San Isidro - Lima:</h2>\n<ul>\n<li>Diciembre 2021 - Actualidad</li>\n<li>PHP | Python Backend Developer</li>\n</ul>\n<h2 id=\"kalp-peru-s-a-c-chiclayo\"> Kalp Perú S.A.C, Chiclayo :</h2>\n<ul>\n<li>Octubre 2020 – Noviembre 2021</li>\n<li>PHP Backend Developer</li>\n</ul>\n<h2 id=\"barja-y-vasques-iesemin-s-a-c-comas-lima\"> Barja y Vasques Iesemin S.A.C, Comas - Lima:</h2>\n<ul>\n<li>Febrero de 2019 - Julio 2020</li>\n<li>Desarrollador Web</li>\n</ul>\n<h2 id=\"supermercados-tottus-leguia-chiclayo-lambayeque\"> Supermercados Tottus Leguía, Chiclayo - Lambayeque</h2>\n<ul>\n<li>Julio de 2013 - Octubre de 2017</li>\n<li>Asistente de Gerencia.</li>\n</ul>\n<h2 id=\"supermercados-tottus-belaunde-lora-y-lora-chiclayo-lambayeque\"> Supermercados Tottus Belaunde Lora y Lora, Chiclayo - Lambayeque</h2>\n<ul>\n<li>Septiembre de 2011 - Junio de 2013</li>\n<li>Administrador de sistemas y equipos de cómputo de usuarios finales.</li>\n</ul>\n<h2 id=\"hipermercados-tottus-mall-chiclayo-lambayeque\"> Hipermercados Tottus Mall, Chiclayo - Lambayeque</h2>\n<ul>\n<li>Agosto de 2010 - Agosto de 2011</li>\n<li>Operador de Sistemas.</li>\n</ul>\n",
       "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2021-10-14T07:56:11.000Z",
+      "date_modified": "2022-02-28T19:25:07.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"
@@ -107,12 +79,40 @@
       "tags": []
     },
     {
+      "title": "Portafolio",
+      "url": "https://vuepress.pabloyafac.com/home/",
+      "id": "https://vuepress.pabloyafac.com/home/",
+      "content_html": "\n",
+      "date_published": "2021-10-09T08:19:29.000Z",
+      "date_modified": "2021-10-15T05:52:23.000Z",
+      "authors": [
+        {
+          "name": "Pablo Yafac"
+        }
+      ],
+      "tags": []
+    },
+    {
       "title": "Blog",
       "url": "https://vuepress.pabloyafac.com/",
       "id": "https://vuepress.pabloyafac.com/",
       "content_html": "\n\n",
       "date_published": "2021-10-09T08:19:29.000Z",
       "date_modified": "2021-10-09T08:19:29.000Z",
+      "authors": [
+        {
+          "name": "Pablo Yafac"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Bienvenidos",
+      "url": "https://vuepress.pabloyafac.com/intro/",
+      "id": "https://vuepress.pabloyafac.com/intro/",
+      "content_html": "<h1 id=\"bienvenidos\"> Bienvenidos</h1>\n<p>Este blog se creo, con el fin de compartir mi experiencia en este apasionante mundo web.\nCompartiré algunos conceptos de programación, ademas de mis errores y aciertos en las diversas tecnologias que ire aprendiendo.\nEsperando que el contenido que suba, pueda ayudarles en su desarrollo. De la misma forma como algunos fabulosos tutoriales en internet me fueron de mucha utilidad.</p>\n<p>&quot;Compartir es aprender dos veces!&quot;</p>\n<p>Happy Coding!</p>\n<p>Atte.\nPablo Yafac Huamanchumo.</p>\n",
+      "date_published": "2021-10-09T08:19:29.000Z",
+      "date_modified": "2022-02-25T06:39:07.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"

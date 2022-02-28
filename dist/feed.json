@@ -14,7 +14,7 @@
       "id": "https://vuepress.pabloyafac.com/about/",
       "content_html": "\n<p>Me desempeño principalmente como PHP Backend Developer , uso Laravel como framework de preferencia.</p>\n<p>Tengo conocimientos además en Java (framework SpringBoot) en lado del Backend y HTML, CSS, Javascript(framework Vue) en lado del Frontend.</p>\n<div>\n<p><a href=\"/about/certifications\">Mis Certificaciones →</a></p>\n</div>\n",
       "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2021-11-14T04:49:25.000Z",
+      "date_modified": "2022-02-28T00:54:00.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"
@@ -26,7 +26,7 @@
       "title": "Certificaciones",
       "url": "https://vuepress.pabloyafac.com/about/certifications/",
       "id": "https://vuepress.pabloyafac.com/about/certifications/",
-      "content_html": "<h1 id=\"certificaciones\"> Certificaciones</h1>\n<ul>\n<li>DevOps Essentials Professional Certificate, Certiprof.\n<img src=\"./../../docs/.vuepress/public/platzi/certiprof/certificate-devops.jpg\" alt=\"DevOps\" loading=\"lazy\"></li>\n<li>Scrum Foundation Professional Certificate, Certiprof.\n<img src=\"./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg\" alt=\"Scrum\" loading=\"lazy\"></li>\n</ul>\n",
+      "content_html": "<h1 id=\"certificaciones\"> Certificaciones</h1>\n<ul>\n<li>DevOps Essentials Professional Certificate, Certiprof.\n<img src=\"./../../docs/.vuepress/public/platzi/certiprof/certificate-devops.jpg\" alt=\"DevOps\" /></li>\n<li>Scrum Foundation Professional Certificate, Certiprof.\n<img src=\"./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg\" alt=\"Scrum\" /></li>\n</ul>\n",
       "date_published": "2021-10-09T08:19:29.000Z",
       "date_modified": "2022-02-25T06:51:43.000Z",
       "authors": [
@@ -40,9 +40,9 @@
       "title": "Cursos",
       "url": "https://vuepress.pabloyafac.com/about/courses/",
       "id": "https://vuepress.pabloyafac.com/about/courses/",
-      "content_html": "<h1 id=\"cursos\"> Cursos</h1>\n<p>Lista de Curso de Desarrollo Web realizados en Platzi.</p>\n<h2 id=\"backend\"> Backend</h2>\n<ul>\n<li>diploma-intro-laravel-2020.</li>\n<li>diploma-oop.</li>\n<li>diploma-java-basico.</li>\n<li>diploma-java-persistencia.</li>\n<li>diploma-terminal.</li>\n</ul>\n<h2 id=\"frontend\"> Frontend:</h2>\n<ul>\n<li>diploma-vuejs2.</li>\n<li>diploma-woocommerce.</li>\n<li>diploma-ecmascript-6.</li>\n<li>diploma-asincronismo-js.</li>\n<li>diploma-javascript-navegador.</li>\n<li>diploma-basico-javascript.</li>\n<li>diploma-html-practico.</li>\n<li>diploma-html-css.</li>\n</ul>\n<photo-personal>",
+      "content_html": "<h1 id=\"cursos\"> Cursos</h1>\n<p>Lista de Curso de Desarrollo Web realizados en Platzi.</p>\n<h2 id=\"backend\"> Backend</h2>\n<ul>\n<li>diploma-intro-laravel-2020.\n<img src=\"./../../docs/.vuepress/public/platzi/diploma-intro-laravel.png\" alt=\"Laravel\" /></li>\n<li>diploma-jee.\n<img src=\"./../../docs/.vuepress/public/platzi/diploma-jee-2017.png\" alt=\"Java EE\" /></li>\n<li>diploma-oop.\n<img src=\"./../../docs/.vuepress/public/platzi/diploma-java-oop.png\" alt=\"Java-OO\" /></li>\n<li>diploma-java-se.\n<img src=\"./../../docs/.vuepress/public/platzi/diploma-java-basico.png\" alt=\"Java-Basico\" /></li>\n<li>diploma-java-persistencia.\n<img src=\"./../../docs/.vuepress/public/platzi/diploma-java-persistencia.png\" alt=\"Java-Java-Persistencia\" /></li>\n<li>diploma-entorno-desarrollo.\n<img src=\"./../../docs/.vuepress/public/platzi/diploma-prework.png\" alt=\"Entorno de Desarrollo\" /></li>\n<li>diploma-terminal.\n<img src=\"./../../docs/.vuepress/public/platzi/diploma-terminal.png\" alt=\"Terminal\" /></li>\n</ul>\n<h2 id=\"frontend\"> Frontend</h2>\n<ul>\n<li>diploma-vuejs2.\n<img src=\"./../../docs/.vuepress/public/platzi/diploma-vuejs2.png\" alt=\"Vuejs 2\" /></li>\n<li>diploma-woocommerce.\n<img src=\"./../../docs/.vuepress/public/platzi/diploma-woocommerce.png\" alt=\"Woo-commerce\" /></li>\n<li>diploma-ecmascript-6.\n<img src=\"./../../docs/.vuepress/public/platzi/diploma-ecmascript-6.png\" alt=\"Ecmascript-6\" /></li>\n<li>diploma-asincronismo-js.\n<img src=\"./../../docs/.vuepress/public/platzi/diploma-asincronismo-js.png\" alt=\"Asincronismo Js\" />\n</li>\n<li>diploma-basico-javascript.\n<img src=\"./../../docs/.vuepress/public/platzi/diploma-basico-javascript.png\" alt=\"Javascript\" /></li>\n<li>diploma-html-practico.\n<img src=\"./../../docs/.vuepress/public/platzi/diploma-html-practico.png\" alt=\"HTML-práctico\" /></li>\n<li>diploma-html-css.\n<img src=\"./../../docs/.vuepress/public/platzi/diploma-html-css.png\" alt=\"HTML-CSS\" /></li>\n</ul>\n",
       "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2022-02-25T06:39:07.000Z",
+      "date_modified": "2022-02-28T00:54:00.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"
@@ -93,12 +93,12 @@
       "tags": []
     },
     {
-      "title": "Blog",
-      "url": "https://vuepress.pabloyafac.com/",
-      "id": "https://vuepress.pabloyafac.com/",
-      "content_html": "\n\n",
+      "title": "Portafolio",
+      "url": "https://vuepress.pabloyafac.com/portfolio/",
+      "id": "https://vuepress.pabloyafac.com/portfolio/",
+      "content_html": "\n",
       "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2021-10-09T08:19:29.000Z",
+      "date_modified": "2021-11-14T04:49:25.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"
@@ -107,12 +107,12 @@
       "tags": []
     },
     {
-      "title": "Portafolio",
-      "url": "https://vuepress.pabloyafac.com/portfolio/",
-      "id": "https://vuepress.pabloyafac.com/portfolio/",
-      "content_html": "\n",
+      "title": "Blog",
+      "url": "https://vuepress.pabloyafac.com/",
+      "id": "https://vuepress.pabloyafac.com/",
+      "content_html": "\n\n",
       "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2021-11-14T04:49:25.000Z",
+      "date_modified": "2021-10-09T08:19:29.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"

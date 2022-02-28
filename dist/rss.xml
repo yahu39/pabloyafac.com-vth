@@ -6,10 +6,11 @@
     <link>https://vuepress.pabloyafac.com/</link>
     <description>Blog Personal</description>
     <language>en-US</language>
-    <pubDate>Fri, 25 Feb 2022 22:56:16 GMT</pubDate>
-    <lastBuildDate>Fri, 25 Feb 2022 22:56:16 GMT</lastBuildDate>
+    <pubDate>Mon, 28 Feb 2022 07:01:29 GMT</pubDate>
+    <lastBuildDate>Mon, 28 Feb 2022 07:01:29 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <copyright>Copyright by Pablo Yafac</copyright>
     <item>
       <title>About</title>
       <link>https://vuepress.pabloyafac.com/about/</link>
@@ -33,9 +34,9 @@
       <content:encoded><![CDATA[<h1 id="certificaciones"> Certificaciones</h1>
 <ul>
 <li>DevOps Essentials Professional Certificate, Certiprof.
-<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-devops.jpg" alt="DevOps" loading="lazy"></li>
+<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-devops.jpg" alt="DevOps" /></li>
 <li>Scrum Foundation Professional Certificate, Certiprof.
-<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg" alt="Scrum" loading="lazy"></li>
+<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg" alt="Scrum" /></li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -49,24 +50,40 @@
 <p>Lista de Curso de Desarrollo Web realizados en Platzi.</p>
 <h2 id="backend"> Backend</h2>
 <ul>
-<li>diploma-intro-laravel-2020.</li>
-<li>diploma-oop.</li>
-<li>diploma-java-basico.</li>
-<li>diploma-java-persistencia.</li>
-<li>diploma-terminal.</li>
+<li>diploma-intro-laravel-2020.
+<img src="./../../docs/.vuepress/public/platzi/diploma-intro-laravel.png" alt="Laravel" /></li>
+<li>diploma-jee.
+<img src="./../../docs/.vuepress/public/platzi/diploma-jee-2017.png" alt="Java EE" /></li>
+<li>diploma-oop.
+<img src="./../../docs/.vuepress/public/platzi/diploma-java-oop.png" alt="Java-OO" /></li>
+<li>diploma-java-se.
+<img src="./../../docs/.vuepress/public/platzi/diploma-java-basico.png" alt="Java-Basico" /></li>
+<li>diploma-java-persistencia.
+<img src="./../../docs/.vuepress/public/platzi/diploma-java-persistencia.png" alt="Java-Java-Persistencia" /></li>
+<li>diploma-entorno-desarrollo.
+<img src="./../../docs/.vuepress/public/platzi/diploma-prework.png" alt="Entorno de Desarrollo" /></li>
+<li>diploma-terminal.
+<img src="./../../docs/.vuepress/public/platzi/diploma-terminal.png" alt="Terminal" /></li>
 </ul>
-<h2 id="frontend"> Frontend:</h2>
+<h2 id="frontend"> Frontend</h2>
 <ul>
-<li>diploma-vuejs2.</li>
-<li>diploma-woocommerce.</li>
-<li>diploma-ecmascript-6.</li>
-<li>diploma-asincronismo-js.</li>
-<li>diploma-javascript-navegador.</li>
-<li>diploma-basico-javascript.</li>
-<li>diploma-html-practico.</li>
-<li>diploma-html-css.</li>
+<li>diploma-vuejs2.
+<img src="./../../docs/.vuepress/public/platzi/diploma-vuejs2.png" alt="Vuejs 2" /></li>
+<li>diploma-woocommerce.
+<img src="./../../docs/.vuepress/public/platzi/diploma-woocommerce.png" alt="Woo-commerce" /></li>
+<li>diploma-ecmascript-6.
+<img src="./../../docs/.vuepress/public/platzi/diploma-ecmascript-6.png" alt="Ecmascript-6" /></li>
+<li>diploma-asincronismo-js.
+<img src="./../../docs/.vuepress/public/platzi/diploma-asincronismo-js.png" alt="Asincronismo Js" />
+</li>
+<li>diploma-basico-javascript.
+<img src="./../../docs/.vuepress/public/platzi/diploma-basico-javascript.png" alt="Javascript" /></li>
+<li>diploma-html-practico.
+<img src="./../../docs/.vuepress/public/platzi/diploma-html-practico.png" alt="HTML-práctico" /></li>
+<li>diploma-html-css.
+<img src="./../../docs/.vuepress/public/platzi/diploma-html-css.png" alt="HTML-CSS" /></li>
 </ul>
-<photo-personal>]]></content:encoded>
+]]></content:encoded>
     </item>
     <item>
       <title>Experiencia</title>
@@ -104,6 +121,15 @@ Pablo Yafac Huamanchumo.</p>
 ]]></content:encoded>
     </item>
     <item>
+      <title>Portafolio</title>
+      <link>https://vuepress.pabloyafac.com/portfolio/</link>
+      <guid>https://vuepress.pabloyafac.com/portfolio/</guid>
+      <source url="https://vuepress.pabloyafac.com/rss.xml">Portafolio</source>
+      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
+      <content:encoded><![CDATA[
+]]></content:encoded>
+    </item>
+    <item>
       <title>Blog</title>
       <link>https://vuepress.pabloyafac.com/</link>
       <guid>https://vuepress.pabloyafac.com/</guid>
@@ -111,15 +137,6 @@ Pablo Yafac Huamanchumo.</p>
       <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
       <content:encoded><![CDATA[
 
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Portafolio</title>
-      <link>https://vuepress.pabloyafac.com/portfolio/</link>
-      <guid>https://vuepress.pabloyafac.com/portfolio/</guid>
-      <source url="https://vuepress.pabloyafac.com/rss.xml">Portafolio</source>
-      <pubDate>Sat, 09 Oct 2021 08:19:29 GMT</pubDate>
-      <content:encoded><![CDATA[
 ]]></content:encoded>
     </item>
   </channel>

@@ -26,7 +26,7 @@
       "title": "Certificaciones",
       "url": "https://vuepress.pabloyafac.com/about/certifications/",
       "id": "https://vuepress.pabloyafac.com/about/certifications/",
-      "content_html": "<h1 id=\"certificaciones\"> Certificaciones</h1>\n<ul>\n<li>DevOps Essentials Professional Certificate, Certiprof.\n<img src=\"./../../docs/.vuepress/public/platzi/certiprof/certificate-devops.jpg\" alt=\"DevOps\" /></li>\n<li>Scrum Foundation Professional Certificate, Certiprof.\n<img src=\"./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg\" alt=\"Scrum\" /></li>\n</ul>\n",
+      "content_html": "<h1 id=\"certificaciones\"> Certificaciones</h1>\n<ul>\n<li>DevOps Essentials Professional Certificate, Certiprof.\n<img src=\"./../../docs/.vuepress/public/platzi/certiprof/certificate-devops.jpg\" alt=\"DevOps\" loading=\"lazy\"></li>\n<li>Scrum Foundation Professional Certificate, Certiprof.\n<img src=\"./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg\" alt=\"Scrum\" loading=\"lazy\"></li>\n</ul>\n",
       "date_published": "2021-10-09T08:19:29.000Z",
       "date_modified": "2022-02-25T06:51:43.000Z",
       "authors": [
@@ -43,6 +43,20 @@
       "content_html": "<h1 id=\"cursos\"> Cursos</h1>\n<p>Lista de Curso de Desarrollo Web realizados en Platzi.</p>\n<h2 id=\"backend\"> Backend</h2>\n<ul>\n<li>diploma-intro-laravel-2020.</li>\n<li>diploma-oop.</li>\n<li>diploma-java-basico.</li>\n<li>diploma-java-persistencia.</li>\n<li>diploma-terminal.</li>\n</ul>\n<h2 id=\"frontend\"> Frontend:</h2>\n<ul>\n<li>diploma-vuejs2.</li>\n<li>diploma-woocommerce.</li>\n<li>diploma-ecmascript-6.</li>\n<li>diploma-asincronismo-js.</li>\n<li>diploma-javascript-navegador.</li>\n<li>diploma-basico-javascript.</li>\n<li>diploma-html-practico.</li>\n<li>diploma-html-css.</li>\n</ul>\n<photo-personal>",
       "date_published": "2021-10-09T08:19:29.000Z",
       "date_modified": "2022-02-25T06:39:07.000Z",
+      "authors": [
+        {
+          "name": "Pablo Yafac"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "Experiencia",
+      "url": "https://vuepress.pabloyafac.com/about/experience/",
+      "id": "https://vuepress.pabloyafac.com/about/experience/",
+      "content_html": "<h1 id=\"experiencia\"> Experiencia</h1>\n<p>Esta es la seccion de experiencia</p>\n",
+      "date_published": "2021-10-09T08:19:29.000Z",
+      "date_modified": "2021-10-14T07:56:11.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"
@@ -79,20 +93,6 @@
       "tags": []
     },
     {
-      "title": "Portafolio",
-      "url": "https://vuepress.pabloyafac.com/portfolio/",
-      "id": "https://vuepress.pabloyafac.com/portfolio/",
-      "content_html": "\n",
-      "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2021-11-14T04:49:25.000Z",
-      "authors": [
-        {
-          "name": "Pablo Yafac"
-        }
-      ],
-      "tags": []
-    },
-    {
       "title": "Blog",
       "url": "https://vuepress.pabloyafac.com/",
       "id": "https://vuepress.pabloyafac.com/",
@@ -107,12 +107,12 @@
       "tags": []
     },
     {
-      "title": "Experiencia",
-      "url": "https://vuepress.pabloyafac.com/about/experience/",
-      "id": "https://vuepress.pabloyafac.com/about/experience/",
-      "content_html": "<h1 id=\"experiencia\"> Experiencia</h1>\n<p>Esta es la seccion de experiencia</p>\n",
+      "title": "Portafolio",
+      "url": "https://vuepress.pabloyafac.com/portfolio/",
+      "id": "https://vuepress.pabloyafac.com/portfolio/",
+      "content_html": "\n",
       "date_published": "2021-10-09T08:19:29.000Z",
-      "date_modified": "2021-10-14T07:56:11.000Z",
+      "date_modified": "2021-11-14T04:49:25.000Z",
       "authors": [
         {
           "name": "Pablo Yafac"

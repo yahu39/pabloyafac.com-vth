@@ -60,9 +60,15 @@ module.exports = config({
     sidebar: {
       "/": [
         "",
-        "home",
+        //"home",
         //"slides",
         //"layout",
+        {
+          title: "Portfolio",
+          icon: "folder",
+          prefix: "portfolio/",
+          children:[""],
+        },
         {
           title: "About",
           icon: "people",

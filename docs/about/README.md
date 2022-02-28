@@ -18,6 +18,7 @@ action:
 footer: Copyright © 2021
 ---
 <!-- copyrightText: false -->
+
 Me desempeño principalmente como PHP Backend Developer , uso Laravel como framework de preferencia. 
 
 Tengo conocimientos además en Java (framework SpringBoot) en lado del Backend y HTML, CSS, Javascript(framework Vue) en lado del Frontend.

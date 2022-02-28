@@ -6,11 +6,10 @@
   <author>
     <name>Pablo Yafac</name>
   </author>
-  <updated>2022-02-25T06:54:02.409Z</updated>
+  <updated>2022-02-25T22:56:16.491Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://vuepress.pabloyafac.com/atom.xml"/>
   <link rel="alternate" href="https://vuepress.pabloyafac.com/"/>
-  <rights>Copyright by Pablo Yafac</rights>
   <contributor>
     <name>Pablo Yafac</name>
   </contributor>
@@ -43,9 +42,9 @@
     <content type="html"><![CDATA[<h1 id="certificaciones"> Certificaciones</h1>
 <ul>
 <li>DevOps Essentials Professional Certificate, Certiprof.
-<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-devops.jpg" alt="DevOps" /></li>
+<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-devops.jpg" alt="DevOps" loading="lazy"></li>
 <li>Scrum Foundation Professional Certificate, Certiprof.
-<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg" alt="Scrum" /></li>
+<img src="./../../docs/.vuepress/public/platzi/certiprof/certificate-scrum.jpg" alt="Scrum" loading="lazy"></li>
 </ul>
 ]]></content>
     <author>
@@ -84,6 +83,23 @@
 <li>diploma-html-css.</li>
 </ul>
 <photo-personal>]]></content>
+    <author>
+      <name>Pablo Yafac</name>
+    </author>
+    <contributor>
+      <name>Pablo Yafac</name>
+    </contributor>
+    <published>2021-10-09T08:19:29.000Z</published>
+    <rights>Copyright by Pablo Yafac</rights>
+  </entry>
+  <entry>
+    <title type="html">Experiencia</title>
+    <id>https://vuepress.pabloyafac.com/about/experience/</id>
+    <link href="https://vuepress.pabloyafac.com/about/experience/"/>
+    <updated>2021-10-14T07:56:11.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="experiencia"> Experiencia</h1>
+<p>Esta es la seccion de experiencia</p>
+]]></content>
     <author>
       <name>Pablo Yafac</name>
     </author>
@@ -133,22 +149,6 @@ Pablo Yafac Huamanchumo.</p>
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
-    <title type="html">Portafolio</title>
-    <id>https://vuepress.pabloyafac.com/portfolio/</id>
-    <link href="https://vuepress.pabloyafac.com/portfolio/"/>
-    <updated>2021-11-14T04:49:25.000Z</updated>
-    <content type="html"><![CDATA[
-]]></content>
-    <author>
-      <name>Pablo Yafac</name>
-    </author>
-    <contributor>
-      <name>Pablo Yafac</name>
-    </contributor>
-    <published>2021-10-09T08:19:29.000Z</published>
-    <rights>Copyright by Pablo Yafac</rights>
-  </entry>
-  <entry>
     <title type="html">Blog</title>
     <id>https://vuepress.pabloyafac.com/</id>
     <link href="https://vuepress.pabloyafac.com/"/>
@@ -166,12 +166,11 @@ Pablo Yafac Huamanchumo.</p>
     <rights>Copyright by Pablo Yafac</rights>
   </entry>
   <entry>
-    <title type="html">Experiencia</title>
-    <id>https://vuepress.pabloyafac.com/about/experience/</id>
-    <link href="https://vuepress.pabloyafac.com/about/experience/"/>
-    <updated>2021-10-14T07:56:11.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="experiencia"> Experiencia</h1>
-<p>Esta es la seccion de experiencia</p>
+    <title type="html">Portafolio</title>
+    <id>https://vuepress.pabloyafac.com/portfolio/</id>
+    <link href="https://vuepress.pabloyafac.com/portfolio/"/>
+    <updated>2021-11-14T04:49:25.000Z</updated>
+    <content type="html"><![CDATA[
 ]]></content>
     <author>
       <name>Pablo Yafac</name>
